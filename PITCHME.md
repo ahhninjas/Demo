@@ -2,7 +2,7 @@
 
 ### A GitPitch Presentation Template
 
----?image=/assets/image/light-grey-background.jpg
+---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg
 
 ## Tips!
 
