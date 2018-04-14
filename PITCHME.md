@@ -12,7 +12,7 @@
 
 @fa[microphone gp-tip](Press S for Speaker Notes)
 
----?image=https://github.com/UniBitProject/team-demo/blob/master/assets/image/sticky.jpg?raw=true
+---?image=/assets/image/sticky.jpg
 
 ## Template Features
 
