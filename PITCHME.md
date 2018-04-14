@@ -2,7 +2,7 @@
 
 ### A Presentation going over proposed UI/UX changes to Unibit applications. 
 
----?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg
+---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=100
 
 ## Next Slide!
 
