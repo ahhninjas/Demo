@@ -14,7 +14,7 @@
 
 ---
 
-## App 1
+## Encryption App
 
 ![alt]()
 
@@ -22,7 +22,55 @@
 
 ---
 
-## App 1-Modified
+## Encryption App Modified
+
+![alt]()
+
+- Proposed main screen changes |
+
+---
+
+## Voting App
+
+![alt]()
+
+- Current main screen |
+
+---
+
+## Voting App Modified
+
+![alt]()
+
+- Proposed main screen changes |
+
+---
+
+## UBIT Web Wallet Design
+
+![alt]()
+
+- Current web wallet design |
+
+---
+
+## UBIT Web Wallet Modified
+
+![alt]()
+
+- Proposed web wallet changes |
+
+---
+
+## UMW App
+
+![alt]()
+
+- Current main screen |
+
+---
+
+## UMW App Modified
 
 ![alt]()
 
