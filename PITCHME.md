@@ -2,7 +2,7 @@
 
 ### A GitPitch Presentation Template
 
----?image=/assets/image/sticky.jpg
+---?image=/assets/image/light-grey-background.jpg
 
 ## Tips!
 
