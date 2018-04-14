@@ -16,7 +16,7 @@
 
 ## Encryption App
 
-![alt](https://github.com/cryptIt/cryptit.github.io/blob/master/assets/img/iot-security-attacks.jpg)
+![alt](assets/image/encryption-app-main.jpg)
 
 - Current main screen |
 
@@ -24,7 +24,7 @@
 
 ## Encryption App Modified
 
-![alt]()
+![alt](assets/image/encryption-app-mod.jpg)
 
 - Proposed main screen changes |
 
