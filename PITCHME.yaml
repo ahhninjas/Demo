@@ -7,7 +7,7 @@
 theme : sky
 theme-override : assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
-highlight : agate
+highlight : atom-one-dark
 logo : assets/image/logo.png
 transition : fade
 published : true
