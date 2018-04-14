@@ -1,10 +1,10 @@
-# White
+# Team Demo
 
-### A GitPitch Presentation Template
+### A Presentation going over proposed UI/UX changes to Unibit applications. 
 
 ---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg
 
-## Tips!
+## Next Slide!
 
 <br>
 
@@ -14,7 +14,7 @@
 
 ---
 
-## Template Features
+## Features
 
 - Code Presenting |
 - Repo Source, Static Blocks, GIST |
