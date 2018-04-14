@@ -18,7 +18,7 @@
 
 ![alt]()
 
-Current main screen |
+- Current main screen |
 
 ---
 
@@ -26,7 +26,7 @@ Current main screen |
 
 ![alt]()
 
-Proposed main screen changes |
+- Proposed main screen changes |
 
 ---
 
