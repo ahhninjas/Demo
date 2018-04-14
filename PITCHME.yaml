@@ -8,7 +8,7 @@ theme : sky
 theme-override : assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
 highlight : atom-one-light
-logo : assets/image/logo.png
+logo : assets/image/unibit3.png
 transition : none
 published : true
 footnote : "UniBit [ Team-Demo ] Presentation"
