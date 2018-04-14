@@ -2,7 +2,7 @@
 
 ### A GitPitch Presentation Template
 
----
+---?image=/assets/image/sticky.jpg
 
 ## Tips!
 
@@ -12,7 +12,7 @@
 
 @fa[microphone gp-tip](Press S for Speaker Notes)
 
----?image=/assets/image/sticky.jpg
+---
 
 ## Template Features
 
