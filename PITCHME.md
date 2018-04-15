@@ -16,7 +16,7 @@
 
 ## Encryption App
 
-![alt](assets/image/encryption-app-main.jpg&size=80%)
+![alt](assets/image/encryption-app-main.jpg&size=auto 80)
 
 - Current main screen |
 
