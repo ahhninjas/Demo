@@ -18,7 +18,7 @@ slide info
 
 ---
 
-#### Encryption App
+### Encryption App
 
 ![alt](/assets/image/encryption-app-main.jpg)
 
