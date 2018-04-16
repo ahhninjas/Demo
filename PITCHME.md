@@ -20,7 +20,7 @@ slide info
 
 ## Encryption App
 
-![alt](/assets/image/encryption-app-main.jpg&size=auto 80%&color=black)
+![alt](/assets/image/encryption-app-main.jpg)
 
 - Current main screen |
 
