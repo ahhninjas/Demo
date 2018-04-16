@@ -22,7 +22,7 @@ slide info
 
 ![alt](/assets/image/encryption-app-main.jpg)
 
-- Current main screen |
+- Current main screen UI design |
 
 ---
 
