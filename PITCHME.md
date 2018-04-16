@@ -18,11 +18,11 @@ slide info
 
 ---
 
-## Encryption App
+#### Encryption App
 
 ![alt](/assets/image/encryption-app-main.jpg)
 
-- Current main screen UI design |
+- Current home screen UI design |
 
 ---
 
