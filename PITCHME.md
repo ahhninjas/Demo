@@ -76,7 +76,7 @@ slide info
 
 ## UMW App Modified
 
-![alt]()
+![alt](https://media.giphy.com/media/fWfZJdKJwbmaTsbPrT/giphy.gif)
 
 - Proposed main screen changes |
 
