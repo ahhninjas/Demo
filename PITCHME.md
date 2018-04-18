@@ -14,8 +14,8 @@ Community Discussion Takes Place @ |
 
 ![alt](/assets/image/demo/cryptit-main.jpg)
 
-- Current home screen UI design |
-- Current website: https://securedoc.io |
+- Current home screen UI design 
+- Current website: https://securedoc.io 
 
 ---
 
@@ -23,8 +23,8 @@ Community Discussion Takes Place @ |
 
 ![alt](assets/image/encryption-app-mod.jpg)
 
-- Proposed main screen changes |
-- Future website: https://encryption.app |
+- Proposed main screen changes 
+- Future website: https://encryption.app 
 
 ---
 
@@ -32,7 +32,7 @@ Community Discussion Takes Place @ |
 
 ![alt](/assets/image/demo/voteapp-main.png)
 
-- Current main screen |
+- Current main screen 
 - Current website --> http://voteapp.gq
 
 ---
@@ -41,7 +41,7 @@ Community Discussion Takes Place @ |
 
 ![alt]()
 
-- Proposed main screen changes |
+- Proposed main screen changes 
 - Future website --> https://vote.app
 
 ---
@@ -50,7 +50,7 @@ Community Discussion Takes Place @ |
 
 ![alt](/assets/image/demo/ubit-main.png)
 
-- Current web wallet design |
+- Current web wallet design 
 - Current website --> http://ubit.chickenkiller.com
 
 ---
@@ -60,7 +60,7 @@ Community Discussion Takes Place @ |
 ![alt]()
 
 - Proposed web wallet changes 
-- Future website | --> https://wallet.unibit.app
+- Future website --> https://wallet.unibit.app
 
 ---
 
@@ -77,7 +77,7 @@ Community Discussion Takes Place @ |
 
 ![alt](assets/image/encryption-app-mod.jpg)
 
-- Proposed main screen changes --> http://google.doc.whatever 
+- Proposed main screen changes
 - Future website --> https://encryption.app 
 
 ---
@@ -86,8 +86,8 @@ Community Discussion Takes Place @ |
 
 ![alt](/assets/image/demo/scoutbrowser-main.png)
 
-- Current home screen UI design |
-- Current website --> http://scout.click |
+- Current home screen UI design 
+- Current website --> http://scout.click 
 
 ---
 
@@ -95,7 +95,7 @@ Community Discussion Takes Place @ |
 
 ![alt](assets/image/encryption-app-mod.jpg)
 
-- Proposed main screen changes --> http://google.doc.whatever |
+- Proposed main screen changes
 
 ---
 
