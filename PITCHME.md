@@ -27,7 +27,7 @@ slide info
 
 ---
 
-## Encryption App Modified
+### Encryption App Modified
 
 ![alt](assets/image/encryption-app-mod.jpg)
 
@@ -35,7 +35,7 @@ slide info
 
 ---
 
-## Voting App
+### Voting App
 
 ![alt]()
 
@@ -43,7 +43,7 @@ slide info
 
 ---
 
-## Voting App Modified
+### Voting App Modified
 
 ![alt]()
 
@@ -51,7 +51,7 @@ slide info
 
 ---
 
-## UBIT Web Wallet Design
+### UBIT Web Wallet Design
 
 ![alt]()
 
@@ -59,7 +59,7 @@ slide info
 
 ---
 
-## UBIT Web Wallet Modified
+### UBIT Web Wallet Modified
 
 ![alt]()
 
@@ -67,7 +67,7 @@ slide info
 
 ---
 
-## UMW App
+### UMW App
 
 ![alt](/assets/image/mc.png)
 
@@ -75,7 +75,7 @@ slide info
 
 ---
 
-## UMW App Modified
+### UMW App Modified
 
 ![alt](https://media.giphy.com/media/fWfZJdKJwbmaTsbPrT/giphy.gif)
 
@@ -83,7 +83,7 @@ slide info
 
 ---
 
-## Features
+### Features
 
 - Code Presenting |
 - Repo Source, Static Blocks, GIST |
@@ -139,7 +139,7 @@ http.createServer(function (request, response) {
 
 ---
 
-## Template Help
+### Template Help
 
 - [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
   + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
@@ -150,7 +150,7 @@ http.createServer(function (request, response) {
 
 ---
 
-## Go GitPitch Pro!
+### Go GitPitch Pro!
 
 <br>
 <div class="left">
