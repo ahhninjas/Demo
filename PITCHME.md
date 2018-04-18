@@ -6,7 +6,7 @@
 
 ### Test Background
 
-slide info
+Community Discussion Takes Place @ |
 
 ---
 
@@ -108,49 +108,7 @@ slide info
 
 ---
 
-@title[JavaScript Block]
-
-<p><span class="slide-title">JavaScript Block</span></p>
-
-```javascript
-// Include http module.
-var http = require("http");
-
-// Create the server. Function passed as parameter
-// is called on every request made.
-http.createServer(function (request, response) {
-  // Attach listener on end event.  This event is
-  // called when client sent, awaiting response.
-  request.on("end", function () {
-    // Write headers to the response.
-    // HTTP 200 status, Content-Type text/plain.
-    response.writeHead(200, {
-      'Content-Type': 'text/plain'
-    });
-    // Send data and end response.
-    response.end('Hello HTTP!');
-  });
-
-// Listen on the 8080 port.
-}).listen(8080);
-```
-
-@[1,2](You can present code inlined within your slide markdown too.)
-@[9-17](Displayed using code-syntax highlighting just like your IDE.)
-@[19-20](Again, all of this without ever leaving your slideshow.)
-
----
-
-### Suggestions & Help
-
-- [Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
-  + [Polling](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Introducing](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [Revising](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
-- [Custom Branches](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
-- [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting) [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents) [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
-
----
-
-### Go Pro!
+### Get Involved!
 
 <br>
 <div class="left">
@@ -168,22 +126,11 @@ http.createServer(function (request, response) {
     </ul>
 </div>
 
----
-
-### Questions?
-
-<br>
-
-@fa[twitter gp-contact](@us)
-
-@fa[github gp-contact](us)
-
-@fa[medium gp-contact](@us)
 
 ---?image=assets/image/gitpitch-audience.jpg&opacity=100
 
-@title[Download this Template!]
+@title[Download!]
 
-### <span class="white">Get your tasks started!</span>
+### <span class="white">Get your ass started!</span>
 ### [Download @fa[external-link gp-download]](https://gitpitch.com/template/download/white)
 
