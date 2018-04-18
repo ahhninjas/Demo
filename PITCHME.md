@@ -15,7 +15,7 @@ slide info
 ![alt](/assets/image/demo/cryptit-main.jpg)
 
 - Current home screen UI design |
-- Current website --> https://securedoc.io |
+- Current website --> | https://securedoc.io |
 
 ---
 
