@@ -134,5 +134,5 @@ Community Discussion Takes Place @ |
 @title[Download!]
 
 ### <span class="white">Get started!</span>
-### [Download @fa[fas fa-edit]](https://gitpitch.com/template/download/white)
+### [Suggest Changes Here @fa[fas fa-edit]](https://gitpitch.com/template/download/white)
 
