@@ -79,8 +79,8 @@ Community Discussion Takes Place @ |
 
 - Current Bug Bounty Progress
 <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
-[Download @fa[fa-bug gp-download]](https://gitpitch.com/template/download/white)
-- https://gitcoin.co/funding/details/?url=https://github.com/unibitlabs/electron-multichain-framework/issues/1 
+
+[Available Bounties @fa[gp-download]](https://gitcoin.co/funding/details/?url=https://github.com/unibitlabs/electron-multichain-framework/issues/1)
 
 ---
 
