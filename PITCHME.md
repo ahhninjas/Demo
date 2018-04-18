@@ -77,10 +77,10 @@ Community Discussion Takes Place @ |
 
 ![alt](assets/image/encryption-app-mod.jpg)
 
-- Current Bounties
+- Current Available Bounties
 
 <i class="fa fa-bug fa-3x" aria-hidden="true"> </i><br>
-[Available Bounties @fa[gp-download]](https://gitcoin.co/funding/details/?url=https://github.com/unibitlabs/electron-multichain-framework/issues/1)
+[Bugs To Fix @fa[gp-download]](https://gitcoin.co/funding/details/?url=https://github.com/unibitlabs/electron-multichain-framework/issues/1)
 
 ---
 
