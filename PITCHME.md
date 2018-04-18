@@ -59,8 +59,43 @@ slide info
 
 ![alt]()
 
-- Proposed web wallet changes |
-- Future website --> https://wallet.unibit.app
+- Proposed web wallet changes 
+- Future website | --> https://wallet.unibit.app
+
+---
+
+### UMW App
+
+![alt](/assets/image/demo/umw-main.jpg)
+
+- Current home screen UI design 
+- Current website --> http://unibit.rundis.com 
+
+---
+
+### UMW App Modified
+
+![alt](assets/image/encryption-app-mod.jpg)
+
+- Proposed main screen changes --> http://google.doc.whatever 
+- Future website --> https://encryption.app 
+
+---
+
+### Scout Browser App
+
+![alt](/assets/image/demo/scoutbrowser-main.png)
+
+- Current home screen UI design |
+- Current website --> http://scout.click |
+
+---
+
+### Scout Browser App Modified
+
+![alt](assets/image/encryption-app-mod.jpg)
+
+- Proposed main screen changes --> http://google.doc.whatever |
 
 ---
 
