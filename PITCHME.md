@@ -69,7 +69,7 @@ slide info
 
 ## UMW App
 
-![alt]()
+![alt](/assets/image/mc.png)
 
 - Current main screen |
 
