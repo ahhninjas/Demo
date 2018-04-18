@@ -1,15 +1,15 @@
-# Team Demo
+### Team Demo
 
-### A Presentation going over proposed UI/UX changes to Unibit applications. 
+##### A Presentation going over proposed UI/UX changes to Unibit applications. 
 
 ---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=100
 
-# Test
+### Test
 slide info
 
 ---
 
-## Next Slide!
+### Next Slide!
 
 <br>
 
@@ -67,36 +67,12 @@ slide info
 
 ---
 
-### UMW App
-
-![alt](/assets/image/mc.png)
-
-- Current main screen |
-
----
-
-### UMW App Modified
-
-![alt](https://media.giphy.com/media/fWfZJdKJwbmaTsbPrT/giphy.gif)
-
-- Proposed main screen changes |
-
----
-
 ### Features
 
 - Code Presenting |
 - Repo Source, Static Blocks, GIST |
 - Custom CSS Styling |
-- Slideshow Background Image |
-- Slide-specific Background Images |
 - Custom Logo, TOC, and Footnotes |
-
----?code=sample/go/server.go&lang=golang&title=Golang File
-
-@[1,3-6](Present code found within any repo source file.)
-@[8-18](Without ever leaving your slideshow.)
-@[19-28](Using GitPitch code-presenting with (optional) annotations.)
 
 ---
 
@@ -131,12 +107,6 @@ http.createServer(function (request, response) {
 @[9-17](Displayed using code-syntax highlighting just like your IDE.)
 @[19-20](Again, all of this without ever leaving your slideshow.)
 
----?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=scala&title=Scala GIST
-
-@[23](You can even present code found within any GitHub GIST.)
-@[41-53](GIST source code is beautifully rendered on any slide.)
-@[57-62](And code-presenting works seamlessly for GIST too, both online and offline.)
-
 ---
 
 ### Template Help
@@ -144,8 +114,6 @@ http.createServer(function (request, response) {
 - [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
   + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
 - [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
-- [Slideshow Background Image](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
-- [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
 - [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting) [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents) [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
 
 ---
