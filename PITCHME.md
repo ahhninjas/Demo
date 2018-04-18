@@ -66,7 +66,7 @@ slide info
 
 ### UMW App
 
-![alt](/assets/image/demo/umw-main.jpg)
+![alt](/assets/image/demo/umw-main.png)
 
 - Current home screen UI design 
 - Current website --> http://unibit.rundis.com 
