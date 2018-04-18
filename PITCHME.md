@@ -131,6 +131,6 @@ Community Discussion Takes Place @ |
 
 @title[Download!]
 
-### <span class="white">Get your ass started!</span>
+### <span class="white">Get started!</span>
 ### [Download @fa[external-link gp-download]](https://gitpitch.com/template/download/white)
 
