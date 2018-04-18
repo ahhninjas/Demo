@@ -2,7 +2,7 @@
 
 ##### A Presentation going over proposed UI/UX changes to Unibit applications. 
 
----?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=100
+---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
 
 ### Test Background
 
@@ -15,7 +15,7 @@ slide info
 ![alt](/assets/image/demo/cryptit-main.jpg)
 
 - Current home screen UI design |
-- Current website --> | https://securedoc.io |
+- Current website: https://securedoc.io |
 
 ---
 
@@ -23,8 +23,8 @@ slide info
 
 ![alt](assets/image/encryption-app-mod.jpg)
 
-- Proposed main screen changes --> http://google.doc.whatever |
-- Future website --> https://encryption.app |
+- Proposed main screen changes |
+- Future website: https://encryption.app |
 
 ---
 
