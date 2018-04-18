@@ -4,18 +4,9 @@
 
 ---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=100
 
-### Test
+### Test Background
+
 slide info
-
----
-
-### Next Slide!
-
-<br>
-
-@fa[arrows gp-tip](Press F to go Fullscreen)
-
-@fa[microphone gp-tip](Press S for Speaker Notes)
 
 ---
 
@@ -24,6 +15,7 @@ slide info
 ![alt](/assets/image/encryption-app-main.jpg)
 
 - Current home screen UI design |
+- Current website --> https://securedoc.io |
 
 ---
 
@@ -31,7 +23,8 @@ slide info
 
 ![alt](assets/image/encryption-app-mod.jpg)
 
-- Proposed main screen changes |
+- Proposed main screen changes --> http://google.doc.whatever |
+- Future website --> https://encryption.app |
 
 ---
 
@@ -40,6 +33,7 @@ slide info
 ![alt](assets/image/main.png)
 
 - Current main screen |
+- Current website --> http://voteapp.gq
 
 ---
 
@@ -48,6 +42,7 @@ slide info
 ![alt]()
 
 - Proposed main screen changes |
+- Future website --> https://vote.app
 
 ---
 
@@ -56,6 +51,7 @@ slide info
 ![alt]()
 
 - Current web wallet design |
+- Current website --> http://ubit.chickenkiller.com
 
 ---
 
@@ -64,14 +60,15 @@ slide info
 ![alt]()
 
 - Proposed web wallet changes |
+- Future website --> https://wallet.unibit.app
 
 ---
 
-### Features
+### Suggested Changes
 
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
+- Matching Color Scheme Across All Products/Services? |
+- Open Source? Proprietary? |
+- Custom 3D/Animated Styling |
 - Custom Logo, TOC, and Footnotes |
 
 ---
@@ -109,22 +106,22 @@ http.createServer(function (request, response) {
 
 ---
 
-### Template Help
+### Suggestions & Help
 
-- [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
-  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
-- [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
+- [Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
+  + [Polling](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Introducing](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [Revising](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
+- [Custom Branches](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
 - [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting) [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents) [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
 
 ---
 
-### Go GitPitch Pro!
+### Go Pro!
 
 <br>
 <div class="left">
     <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
     <a href="https://gitpitch.com/pro-features" class="pro-link">
-    More details here.</a>
+    More details hidden here.</a>
 </div>
 <div class="right">
     <ul>
@@ -142,16 +139,16 @@ http.createServer(function (request, response) {
 
 <br>
 
-@fa[twitter gp-contact](@gitpitch)
+@fa[twitter gp-contact](@us)
 
-@fa[github gp-contact](gitpitch)
+@fa[github gp-contact](us)
 
-@fa[medium gp-contact](@gitpitch)
+@fa[medium gp-contact](@us)
 
 ---?image=assets/image/gitpitch-audience.jpg&opacity=100
 
 @title[Download this Template!]
 
-### <span class="white">Get your presentation started!</span>
-### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/white)
+### <span class="white">Get your tasks started!</span>
+### [Download @fa[external-link gp-download]](https://gitpitch.com/template/download/white)
 
