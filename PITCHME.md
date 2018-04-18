@@ -77,8 +77,8 @@ Community Discussion Takes Place @ |
 
 ![alt](assets/image/encryption-app-mod.jpg)
 
-- Proposed main screen changes
-- Future website --> https://encryption.app 
+- Current Bug Bounty Progress
+- https://gitcoin.co/funding/details/?url=https://github.com/unibitlabs/electron-multichain-framework/issues/1 
 
 ---
 
