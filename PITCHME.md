@@ -37,7 +37,7 @@ slide info
 
 ### Voting App
 
-![alt]()
+![alt](assets/image/main.png)
 
 - Current main screen |
 
