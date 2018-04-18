@@ -12,7 +12,7 @@ slide info
 
 ### Encryption App
 
-![alt](/assets/image/encryption-app-main.jpg)
+![alt](/assets/image/demo/cryptit-main.jpg)
 
 - Current home screen UI design |
 - Current website --> https://securedoc.io |
@@ -30,7 +30,7 @@ slide info
 
 ### Voting App
 
-![alt](assets/image/main.png)
+![alt](/assets/image/demo/voteapp-main.png)
 
 - Current main screen |
 - Current website --> http://voteapp.gq
@@ -48,7 +48,7 @@ slide info
 
 ### UBIT Web Wallet Design
 
-![alt]()
+![alt](/assets/image/demo/ubit-main.png)
 
 - Current web wallet design |
 - Current website --> http://ubit.chickenkiller.com
