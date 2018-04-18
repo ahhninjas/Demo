@@ -3,10 +3,11 @@
 ### A Presentation going over proposed UI/UX changes to Unibit applications. 
 
 ---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=100
+
 # Test
 slide info
 
----?image=/assets/image/encryption-app-main.jpg&size=auto 80%&color=black
+---
 
 ## Next Slide!
 
