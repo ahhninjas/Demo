@@ -1,4 +1,4 @@
----?image=/assets/image/purp.png&opacity=80
+---?image=/assets/image/spread.png&opacity=80
 
 ### Team Demo
 
