@@ -69,7 +69,8 @@ for all things App #2 related.
 Community Discussion Takes Place Here
 for all things App #3 related.
 
----
+---?image=/assets/image/light-graph-background-gradient.jpg&opacity=80
+
 
 ### UBIT Web Wallet Design
 
@@ -78,7 +79,8 @@ for all things App #3 related.
 - Current web wallet design 
 - Current website --> http://ubit.chickenkiller.com
 
----
+---?image=/assets/image/light-graph-background-gradient.jpg&opacity=80
+
 
 ### UBIT Web Wallet Modified
 
@@ -87,14 +89,15 @@ for all things App #3 related.
 - Proposed web wallet changes 
 - Future website --> https://wallet.unibit.app
 
----?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
+---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=90
 
 ### App #4 (Universal Multichain Wallet)
 
 Community Discussion Takes Place Here
 for all things App #4 related.
 
----
+---?image=/assets/image/light-graph-background-gradient.jpg&opacity=80
+
 ### UMW App
 
 ![alt](/assets/image/demo/umw-main.png)
