@@ -40,6 +40,8 @@ Website: https://encryption.app
 
 ### Vote App
 
+![YouTube Video](https://www.youtube.com/embed/dNJdJIwCF_Y)
+
 Community Discussion Takes Place Here
 for all things App #2 related.
 
@@ -67,6 +69,8 @@ Website: http://vote.rockthepoll.com
 
 ### Universal Basic Income Token
 
+![YouTube Video](https://www.youtube.com/embed/dNJdJIwCF_Y)
+
 Community Discussion Takes Place Here
 for all things App #3 related.
 
@@ -93,6 +97,8 @@ Website: http://ubit.chickenkiller.com
 
 ### Universal Multichain Wallet
 
+![YouTube Video](https://www.youtube.com/embed/dNJdJIwCF_Y)
+
 Community Discussion Takes Place Here
 for all things App #4 related.
 
@@ -117,8 +123,9 @@ Website: http://unibit.rundis.com
 [Bugs To Fix @fa[gp-download]](https://gitcoin.co/funding/details/?url=https://github.com/unibitlabs/electron-multichain-framework/issues/1)
 
 ---?image=/assets/image/black.jpg&opacity=90
-
 ### The Scout Browser
+
+![YouTube Video](https://www.youtube.com/embed/dNJdJIwCF_Y)
 
 Community Discussion Takes Place Here
 for all things App #5 related.
