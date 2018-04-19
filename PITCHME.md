@@ -1,10 +1,10 @@
----?image=/assets/image/damn.jpg
+---?image=/assets/image/amaze.jpg
 
 ### Team Demo
 
 ##### A Presentation going over proposed UI/UX changes to Unibit applications. 
 
----?image=/assets/image/damn.jpg&opacity=80
+---?image=/assets/image/light-graph-background-gradient.jpg&opacity=80
 
 ### App #1 
 ### (Encryption App)
