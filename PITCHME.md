@@ -1,4 +1,4 @@
----?image=/assets/image/black.jpg
+---?image=/assets/image/white
 
 ### Team Demo
 
