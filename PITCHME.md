@@ -4,57 +4,6 @@
 
 ##### A Presentation going over proposed UI/UX changes to Unibit applications. 
 
----
-
-@title[Sample Bar Chart]
-
-<canvas class="stretch" data-chart="horizontalBar">
-{
- "data" : {
-  "labels" : ["Grapefruit", "Orange", "Kiwi",
-    "Blackberry", "Banana",
-    "Blueberry"],
-  "datasets" : [{
-    "data": [48, 26, 59, 39, 21, 74],
-    "backgroundColor": "#e49436",
-    "borderColor": "#e49436"
-  }]
-  },
-  "options": {
-    "title": {
-      "display": true,
-      "text": "The most delicious fruit?",
-      "fontColor": "gray",
-      "fontSize": 20
-    },
-    "legend": {
-      "display": false
-    },
-    "scales": {
-      "xAxes": [{
-        "ticks": {
-            "beginAtZero": true,
-            "max": 80,
-            "stepSize": 10,
-            "fontColor": "gray"
-        },
-        "scaleLabel": {
-          "display": true,
-          "labelString": "Respondents",
-          "fontColor": "gray"
-        }
-      }],
-      "yAxes": [{
-        "ticks": {
-            "fontColor": "gray"
-        }
-      }]
-    }
-  }
-}
- 
-</canvas>
-
 ---?image=/assets/image/amaze.jpg&opacity=65
 
 ### App #1 
@@ -64,11 +13,8 @@ Community Discussion Takes Place <a href="">Here</a> about all things Encryption
 
 ![YouTube Video](https://www.youtube.com/embed/dNJdJIwCF_Y)
 
-
 [1]:CryptIt(https://cryptit.github.io)
-
 ---?image=/assets/image/amaze.jpg&opacity=65
-
 
 ### Encryption App
 
@@ -101,7 +47,7 @@ for all things App #2 related.
 ![alt](/assets/image/demo/voteapp-main.png)
 
 - Current main screen 
-- Current website --> http://voteapp.gq
+- Current website --> http://vote.rockthepoll.com
 
 ---
 
@@ -198,7 +144,7 @@ for all things App #5 related.
 Community Discussion Takes Place Here
 for all things App #6 related.
 
-+++?video=https://youtu.be/HaM_SzCkfpw
+---?video=/assets/video.mp4
 
 ### Unique Swarm Setup Script
 
@@ -213,18 +159,10 @@ for all things App #6 related.
 
 ![alt]()
 
-##### The Cauchy-Schwarz Inequality
-
-`\[
-\left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
- \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-\]`
-
 - Proposed changes 
 - Future website: http://
 
-
----?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
+---?image=/assets/image/amaze.png&opacity=90
 
 ### App #7 (PC New App)
 
@@ -235,7 +173,7 @@ for all things App #7 related.
 
 ### PC New App
 
-![alt](/assets/image/demo/voteapp-main.png)
+![alt](/assets/image/demo/)
 
 - Current main screen 
 - Current website: http://
@@ -335,7 +273,7 @@ End of App discussion & Previews..
 </div>
 
 
----?image=assets/image/gitpitch-audience.jpg&opacity=100
+---?image=assets/image/gitpitch-audience.jpg&opacity=90
 
 @title[Download!]
 
