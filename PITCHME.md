@@ -10,7 +10,7 @@
 
 ### Encryption App Video Demo
 
-![YouTube Video](https://youtu.be/Sd2oKioNqQU)
+![YouTube Video](https://www.youtube.com/embed/Sd2oKioNqQU)
 
 Short Video Demonstrating Encryption App
 
