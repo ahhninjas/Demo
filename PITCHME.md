@@ -127,11 +127,11 @@ for all things App #5 related.
 ---?image=/assets/image/white.jpg&opacity=50
 
 ### Scout Browser App
-
+Current User Interface
+<br>
 ![alt](/assets/image/demo/scoutbrowser-main.png)
-
-- Current home screen UI design 
-- Current website --> http://scout.click 
+<br>
+Website: http://scout.click 
 
 ---?image=/assets/image/white.jpg&opacity=50
 
