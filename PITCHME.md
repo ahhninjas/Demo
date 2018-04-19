@@ -6,7 +6,7 @@
 
 ##### A Presentation going over proposed UI/UX changes to Unibit applications. 
 
----
+---?image=/assets/image/black.jpg&opacity=75
 
 ### App #1 
 ### (Encryption App)
@@ -37,7 +37,7 @@ Proposed Changes
 Website: https://encryption.app 
 </center>
 
----
+---?image=/assets/image/black.jpg&opacity=75
 
 ### App #2 
 ### (Vote App)
@@ -65,7 +65,7 @@ Website: http://vote.rockthepoll.com
 - Proposed main screen changes 
 - Future website --> https://vote.app
 
----
+---?image=/assets/image/black.jpg&opacity=75
 
 ### App #3 
 ### (Universal Basic Income Token)
@@ -92,7 +92,7 @@ Website: http://ubit.chickenkiller.com
 - Proposed web wallet changes 
 - Future website --> https://wallet.unibit.app
 
----
+---?image=/assets/image/black.jpg&opacity=75
 
 ### App #4 (Universal Multichain Wallet)
 
@@ -119,7 +119,7 @@ Website: http://unibit.rundis.com
 <i class="fa fa-bug fa-3x" aria-hidden="true"> </i><br>
 [Bugs To Fix @fa[gp-download]](https://gitcoin.co/funding/details/?url=https://github.com/unibitlabs/electron-multichain-framework/issues/1)
 
----
+---?image=/assets/image/black.jpg&opacity=75
 
 ### App #5 (Scout Browser)
 
@@ -143,7 +143,7 @@ Website: http://scout.click
 
 - Proposed main screen changes
 
----
+---?image=/assets/image/black.jpg&opacity=75
 
 ### App #6 (UniqueSwarm Script)
 
@@ -168,7 +168,7 @@ for all things App #6 related.
 - Proposed changes 
 - Future website: http://
 
----
+---?image=/assets/image/black.jpg&opacity=75
 
 ### App #7 (PC New App)
 
@@ -193,7 +193,7 @@ for all things App #7 related.
 - Proposed changes 
 - Future website: http://
 
----
+---?image=/assets/image/black.jpg&opacity=75
 
 ### App #8 (Fw App)
 
@@ -220,7 +220,7 @@ for all things App #8 related.
 - Proposed changes 
 - Future website: https://unibit.app
 
----
+---?image=/assets/image/black.jpg&opacity=75
 
 ### App #9 (Trucking App)
 
