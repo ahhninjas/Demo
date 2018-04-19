@@ -80,7 +80,7 @@ for all things App #3 related.
 <center>
 Current User Interface
  <br>
-![alt](/assets/image/demo/ubit-main.png)
+![alt](/assets/image/ubit-main.png)
 <br></center>
 
 Website: http://ubit.chickenkiller.com
