@@ -1,4 +1,4 @@
----?image=/assets/image/amaze.jpg&opacity=75
+---
 
 ### Team Demo
 
@@ -6,17 +6,14 @@
 
 ##### A Presentation going over proposed UI/UX changes to Unibit applications. 
 
----?image=/assets/image/amaze.jpg&opacity=75
+---?image=/assets/image/amaze.jpg
 
 ### App #1 
 ### (Encryption App)
-
 Community Discussion Takes Place <a href="">Here</a> about all things Encryption App [^1] related.
 
 ![YouTube Video](https://www.youtube.com/embed/dNJdJIwCF_Y)
-
 [1]:CryptIt(https://cryptit.github.io)
-
 ---?image=/assets/image/amaze.jpg&opacity=65
 
 ### Encryption App
