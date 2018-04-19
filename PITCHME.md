@@ -275,6 +275,6 @@ for all things App #9 related.
 
 @title[Download!]
 
-### <span class="white">Get started!</span>
+### <span class="purple">Get started!</span>
 ### [Suggest Changes Here @fa[fas fa-edit]](https://gitpitch.com/template/download/white)
 
