@@ -1,10 +1,12 @@
----?image=/assets/image/amaze.jpg&opacity=65
+---?image=/assets/image/amaze.jpg&opacity=85
 
 ### Team Demo
 
+http://universalbitproject.com/
+
 ##### A Presentation going over proposed UI/UX changes to Unibit applications. 
 
----?image=/assets/image/amaze.jpg&opacity=65
+---?image=/assets/image/amaze.jpg&opacity=75
 
 ### App #1 
 ### (Encryption App)
@@ -14,6 +16,7 @@ Community Discussion Takes Place <a href="">Here</a> about all things Encryption
 ![YouTube Video](https://www.youtube.com/embed/dNJdJIwCF_Y)
 
 [1]:CryptIt(https://cryptit.github.io)
+
 ---?image=/assets/image/amaze.jpg&opacity=65
 
 ### Encryption App
@@ -273,7 +276,7 @@ End of App discussion & Previews..
 </div>
 
 
----?image=assets/image/gitpitch-audience.jpg&opacity=90
+---?image=assets/image/gitpitch-audience.jpg&opacity=100
 
 @title[Download!]
 
