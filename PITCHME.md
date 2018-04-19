@@ -38,15 +38,14 @@ Website: https://encryption.app
 
 ---?image=/assets/image/black.jpg&opacity=90
 
-### App #2 
-### (Vote App)
+### Vote App
 
 Community Discussion Takes Place Here
 for all things App #2 related.
 
 ---?image=/assets/image/black.jpg&opacity=75
 
-### Voting App
+### Vote App 
 <center>
 Current User Interface
 <br>
@@ -57,7 +56,7 @@ Website: http://vote.rockthepoll.com
 
 ---?image=/assets/image/black.jpg&opacity=75
 
-### Voting App Modified
+### Vote App Modified
 
 ![alt]()
 
@@ -66,15 +65,14 @@ Website: http://vote.rockthepoll.com
 
 ---?image=/assets/image/black.jpg&opacity=90
 
-### App #3 
-### (Universal Basic Income Token)
+### Universal Basic Income Token
 
 Community Discussion Takes Place Here
 for all things App #3 related.
 
 ---?image=/assets/image/black.jpg&opacity=75
 
-### UBIT Web Wallet Design
+### UBIT 
 <center>
 Current User Interface
  <br>
@@ -84,7 +82,7 @@ Website: http://ubit.chickenkiller.com
 </center>
 ---?image=/assets/image/black.jpg&opacity=75
 
-### UBIT Web Wallet Modified
+### UBIT Modified
 
 ![alt]()
 
@@ -93,7 +91,6 @@ Website: http://ubit.chickenkiller.com
 
 ---?image=/assets/image/black.jpg&opacity=90
 
-### App #4 
 ### Universal Multichain Wallet
 
 Community Discussion Takes Place Here
@@ -121,7 +118,7 @@ Website: http://unibit.rundis.com
 
 ---?image=/assets/image/black.jpg&opacity=90
 
-### App #5 (Scout Browser)
+### The Scout Browser
 
 Community Discussion Takes Place Here
 for all things App #5 related.
@@ -145,14 +142,14 @@ Website: http://scout.click
 
 ---?image=/assets/image/black.jpg&opacity=90
 
-### App #6 (UniqueSwarm Script)
+### UniqueSwarm Script
 
 Community Discussion Takes Place Here
 for all things App #6 related.
 
 ---?image=/assets/image/black.jpg&opacity=75
 
-### Unique Swarm Setup Script
+### Unique Swarm
 
 ![alt](/assets/image/demo/)
 
@@ -170,7 +167,7 @@ for all things App #6 related.
 
 ---?image=/assets/image/black.jpg&opacity=75
 
-### App #7 (PC New App)
+### PC New
 
 Community Discussion Takes Place Here
 for all things App #7 related.
@@ -195,7 +192,7 @@ for all things App #7 related.
 
 ---?image=/assets/image/black.jpg&opacity=90
 
-### App #8 (Fw App)
+### The D App Framework
 
 Community Discussion Takes Place Here
 for all things App #8 related.
@@ -203,7 +200,7 @@ for all things App #8 related.
 ---?image=/assets/image/black.jpg&opacity=75
 
 
-### Fw App
+### D App Framework
 
 ![alt](/assets/image/demo/framework-main.png)
 
@@ -212,7 +209,7 @@ for all things App #8 related.
 
 ---?image=/assets/image/black.jpg&opacity=75
 
-### Fw App Modified
+### D App Framework Modified
 
 ![alt]()
 
@@ -221,7 +218,7 @@ for all things App #8 related.
 
 ---?image=/assets/image/black.jpg&opacity=75
 
-### App #9 (Trucking App)
+### The Trucking App
 
 Community Discussion Takes Place Here
 for all things App #9 related.
@@ -246,7 +243,7 @@ for all things App #9 related.
 
 ---?image=/assets/image/black.jpg&opacity=75
 
-### Suggested Changes
+### Upcoming Changes
 
 - Matching Color Scheme Across All Products/Services? |
 - Open Source? Proprietary? |
@@ -255,7 +252,7 @@ for all things App #9 related.
 
 ---?image=/assets/image/black.jpg&opacity=90
 
-### Get Involved!
+### How to get Involved!
 
 <br>
 <div class="left">
