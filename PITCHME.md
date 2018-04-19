@@ -37,7 +37,7 @@ Proposed Changes
 Website: https://encryption.app 
 </center>
 
----?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
+---?image=/assets/image/amaze.jpg&opacity=75
 
 ### App #2 
 ### (Vote App)
@@ -65,7 +65,7 @@ Website: http://vote.rockthepoll.com
 - Proposed main screen changes 
 - Future website --> https://vote.app
 
----?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
+---?image=/assets/image/amaze.jpg&opacity=75
 
 ### App #3 
 ### (Universal Basic Income Token)
@@ -91,7 +91,7 @@ for all things App #3 related.
 - Proposed web wallet changes 
 - Future website --> https://wallet.unibit.app
 
----?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
+---?image=/assets/image/amaze.jpg&opacity=75
 
 ### App #4 (Universal Multichain Wallet)
 
@@ -118,7 +118,7 @@ for all things App #4 related.
 <i class="fa fa-bug fa-3x" aria-hidden="true"> </i><br>
 [Bugs To Fix @fa[gp-download]](https://gitcoin.co/funding/details/?url=https://github.com/unibitlabs/electron-multichain-framework/issues/1)
 
----?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
+---?image=/assets/image/amaze.jpg&opacity=75
 
 ### App #5 (Scout Browser)
 
@@ -142,7 +142,7 @@ for all things App #5 related.
 
 - Proposed main screen changes
 
----?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
+---?image=/assets/image/amaze.jpg&opacity=75
 
 ### App #6 (UniqueSwarm Script)
 
@@ -167,7 +167,7 @@ for all things App #6 related.
 - Proposed changes 
 - Future website: http://
 
----?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
+---?image=/assets/image/amaze.jpg&opacity=75
 
 ### App #7 (PC New App)
 
@@ -192,7 +192,7 @@ for all things App #7 related.
 - Proposed changes 
 - Future website: http://
 
----?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
+---?image=/assets/image/amaze.jpg&opacity=75
 
 ### App #8 (Fw App)
 
@@ -219,7 +219,7 @@ for all things App #8 related.
 - Proposed changes 
 - Future website: https://unibit.app
 
----?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
+---?image=/assets/image/amaze.jpg&opacity=75
 
 ### App #9 (Trucking App)
 
@@ -244,7 +244,7 @@ for all things App #9 related.
 - Proposed changes 
 - Future website: http://
 
----?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
+---?image=/assets/image/amaze.jpg&opacity=75
 
 ### App Slides End ()
 
@@ -259,7 +259,7 @@ End of App discussion & Previews..
 - Custom 3D/Animated Styling |
 - Custom Logo, TOC, and Footnotes |
 
----?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg
 
 ### Get Involved!
 
