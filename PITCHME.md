@@ -86,11 +86,14 @@ Website: http://ubit.chickenkiller.com
 ---?image=/assets/image/black.jpg&opacity=75
 
 ### UBIT Modified
+Current Login Screen:<br>
+![alt](/assets/image/demo/ubit-login.png)
+<br>
+New Login Screen:
+<br>
+![alt](/assets/image/demo/ubit-new-login.png)
 
-![alt]()
-
-- Proposed web wallet changes 
-- Future website --> https://wallet.unibit.app
+Website: https://ubit.chickenkiller.com
 
 ---?image=/assets/image/black.jpg&opacity=90
 
