@@ -13,7 +13,7 @@ Community Discussion Takes Place <a href="">Here</a> about all things Encryption
 ![YouTube Video](https://www.youtube.com/embed/dNJdJIwCF_Y)
 [1]:CryptIt(https://cryptit.github.io)
 
----?image=/assets/image/black.jpg&opacity=75
+---?image=/assets/image/black.jpg
 
 ### Encryption App
 <center>
