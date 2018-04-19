@@ -6,7 +6,7 @@
 
 ##### A Presentation going over proposed UI/UX changes to Unibit applications. 
 
----?image=/assets/image/black.jpg&opacity=75
+---?image=/assets/image/black.jpg&opacity=50
 
 ### App #1 
 ### (Encryption App)
