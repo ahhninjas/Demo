@@ -1,5 +1,5 @@
----?image=/assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
+---
 ### Team Demo
 
 ###### http://universalbitproject.com/
