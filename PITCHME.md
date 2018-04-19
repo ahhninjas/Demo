@@ -6,12 +6,13 @@
 
 ##### A Presentation going over proposed UI/UX changes to Unibit applications. 
 
----?image=/assets/image/black.jpg&opacity=90
+---?image=/assets/image/black.jpg&opacity=75
 
-### Encryption App
+### Encryption App Video Demo
+
 ![YouTube Video](https://www.youtube.com/embed/dNJdJIwCF_Y)
 
-Short Video Demonstrating The Encryption App
+Short Video Demonstrating Encryption App
 
 ---?image=/assets/image/black.jpg&opacity=75
 
