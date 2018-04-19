@@ -5,7 +5,8 @@
 
 ---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
 
-### App #1 (Encryption App)
+### App #1 
+### (Encryption App)
 
 Community Discussion Takes Place Here
 about all things App #1 related.
@@ -30,7 +31,8 @@ about all things App #1 related.
 
 ---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
 
-### App #2 (Vote App)
+### App #2 
+### (Vote App)
 
 Community Discussion Takes Place Here
 for all things App #2 related.
@@ -55,7 +57,8 @@ for all things App #2 related.
 
 ---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
 
-### App #3 (Universal Basic Income Token)
+### App #3 
+### (Universal Basic Income Token)
 
 Community Discussion Takes Place Here
 for all things App #3 related.
