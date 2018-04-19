@@ -4,11 +4,11 @@
 # For details, visit Wiki:
 # https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
 #
-theme : black
+theme : sky
 theme-override : assets/css/PITCHME.css
 # theme-override : assets/css/PITCHME.codemax.css
 highlight : atom-one-light
 logo : assets/image/unibit3.png
-transition : none
+transition : fade
 published : true
 footnote : "UniBit [ Team-Demo ] Presentation"
