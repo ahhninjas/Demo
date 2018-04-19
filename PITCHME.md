@@ -37,7 +37,7 @@ Proposed Changes
 Website: https://encryption.app 
 </center>
 
----?image=/assets/image/black.jpg&opacity=75
+---?image=/assets/image/black.jpg&opacity=90
 
 ### App #2 
 ### (Vote App)
@@ -45,7 +45,7 @@ Website: https://encryption.app
 Community Discussion Takes Place Here
 for all things App #2 related.
 
----?image=/assets/image/black.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=75
 
 ### Voting App
 <center>
@@ -56,7 +56,7 @@ Current User Interface
 Website: http://vote.rockthepoll.com
 </center>
 
----?image=/assets/image/black.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=75
 
 ### Voting App Modified
 
@@ -65,7 +65,7 @@ Website: http://vote.rockthepoll.com
 - Proposed main screen changes 
 - Future website --> https://vote.app
 
----?image=/assets/image/black.jpg&opacity=75
+---?image=/assets/image/black.jpg&opacity=90
 
 ### App #3 
 ### (Universal Basic Income Token)
@@ -73,7 +73,7 @@ Website: http://vote.rockthepoll.com
 Community Discussion Takes Place Here
 for all things App #3 related.
 
----?image=/assets/image/black.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=75
 
 ### UBIT Web Wallet Design
 <center>
@@ -83,7 +83,7 @@ Current User Interface
 <br>
 Website: http://ubit.chickenkiller.com
 </center>
----?image=/assets/image/black.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=75
 
 ### UBIT Web Wallet Modified
 
@@ -92,7 +92,7 @@ Website: http://ubit.chickenkiller.com
 - Proposed web wallet changes 
 - Future website --> https://wallet.unibit.app
 
----?image=/assets/image/black.jpg&opacity=75
+---?image=/assets/image/black.jpg&opacity=90
 
 ### App #4 (Universal Multichain Wallet)
 
