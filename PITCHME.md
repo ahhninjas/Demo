@@ -94,7 +94,7 @@ Website: http://ubit.chickenkiller.com
 </div>
 <div class="right">
   New Registration/Login UI
-  <img src="https://github.com/UniBitProject/team-demo/blob/master/assets/image/ubit-new-login.png?raw=true"></img>
+  <img src="https://github.com/UniBitProject/team-demo/blob/master/assets/image/ubit-new2.png?raw=true"></img>
 </div>
 <center>
 Website: https://ubit.chickenkiller.com
