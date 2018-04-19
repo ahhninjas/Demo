@@ -211,7 +211,7 @@ for all things App #8 related.
 
 ### D App Framework
 
-![alt](/assets/image/demo/framework-main.png)
+![alt](/assets/image/demo/fw.png)
 
 - Current main screen 
 - Current website --> http://
