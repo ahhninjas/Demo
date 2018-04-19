@@ -88,12 +88,12 @@ Website: http://ubit.chickenkiller.com
 ### UBIT Modified
 
 <div class="left">
-    <img src="/assets/image/ubit-new-login.png"></img>
-    Current Login Screen</a>
+     Current Login UI
+    <img src="/assets/image/ubit-original.png"></img>
 </div>
 <div class="right">
-<img src="/assets/image/ubit-new-login.png"></img>
-Upcoming Login Screen</a>
+  Upcoming Login UI
+  <img src="/assets/image/ubit-new-login.png"></img>
 </div>
 
 Website: https://ubit.chickenkiller.com
