@@ -89,11 +89,11 @@ Website: http://ubit.chickenkiller.com
 ### UBIT Modified
 
 <div class="left">
-     Current Registration/Login UI
+     Current Login Design
     <img src="https://github.com/UniBitProject/team-demo/blob/master/assets/image/ubit-original.png?raw=true"></img>
 </div>
 <div class="right">
-  New Registration/Login UI
+  New Login Design
   <img src="https://github.com/UniBitProject/team-demo/blob/master/assets/image/ubit-new2.png?raw=true"></img>
 </div>
 <center>
