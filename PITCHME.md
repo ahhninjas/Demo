@@ -97,7 +97,7 @@ Website: http://ubit.chickenkiller.com
 
 ### Universal Multichain Wallet
 
-![YouTube Video](https://www.youtube.com/watch?v=hbozav9dvV0)
+![YouTube Video](https://youtu.be/hbozav9dvV0)
 
 Community Discussion Takes Place Here
 for all things App #4 related.
