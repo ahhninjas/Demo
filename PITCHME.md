@@ -130,10 +130,10 @@ for all things App #5 related.
 
 ---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
 
-### App #7 (UniqueSwarm Script)
+### App #6 (UniqueSwarm Script)
 
 Community Discussion Takes Place Here
-for all things App #7 related.
+for all things App #6 related.
 
 ---
 
@@ -156,10 +156,10 @@ for all things App #7 related.
 
 ---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
 
-### App #8 (PC New App)
+### App #7 (PC New App)
 
 Community Discussion Takes Place Here
-for all things App #8 related.
+for all things App #7 related.
 
 ---
 
@@ -181,10 +181,10 @@ for all things App #8 related.
 
 ---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
 
-### App #9 (Fw App)
+### App #8 (Fw App)
 
 Community Discussion Takes Place Here
-for all things App #9 related.
+for all things App #8 related.
 
 ---
 
@@ -206,10 +206,10 @@ for all things App #9 related.
 
 ---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
 
-### App #10 (Trucking App)
+### App #9 (Trucking App)
 
 Community Discussion Takes Place Here
-for all things App #10 related.
+for all things App #9 related.
 
 ---
 
@@ -229,12 +229,11 @@ for all things App #10 related.
 - Proposed changes 
 - Future website: http://
 
----?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
+---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=20
 
 ### App Slides End ()
 
-Community Discussion Takes Place Here
-for all things App #6 related.
+End of App discussion & Previews..
 
 ---
 
