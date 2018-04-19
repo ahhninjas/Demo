@@ -5,6 +5,7 @@
 ##### A Presentation going over proposed UI/UX changes to Unibit applications. 
 
 ---
+
 @title[Sample Bar Chart]
 
 <canvas class="stretch" data-chart="horizontalBar">
@@ -51,6 +52,7 @@
     }
   }
 }
+ 
 </canvas>
 
 ---?image=/assets/image/amaze.jpg&opacity=65
