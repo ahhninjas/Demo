@@ -21,11 +21,11 @@ Community Discussion Takes Place <a href="">Here</a> about all things Encryption
 
 ### Encryption App
 <center>
-- Current home screen design
+Current User Interface
 
 ![alt](/assets/image/demo/cryptit-main.jpg)
  
-- Current website: https://securedoc.io 
+Demo: https://securedoc.io 
 </center>
 ---?image=/assets/image/amaze.jpg&opacity=65
 
