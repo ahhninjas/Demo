@@ -87,7 +87,7 @@ Website: http://ubit.chickenkiller.com
 
 ### UBIT Modified
 Current Login Screen:<br>
-![alt](/assets/image/ubit-login.png)
+![alt](/assets/image/ubit-original.png)
 <br>
 New Login Screen:
 <br>
