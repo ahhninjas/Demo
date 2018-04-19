@@ -1,9 +1,59 @@
 ---?image=/assets/image/amaze.jpg&opacity=65
 
-
 ### Team Demo
 
 ##### A Presentation going over proposed UI/UX changes to Unibit applications. 
+
++++
+@title[Sample Bar Chart]
+
+<canvas class="stretch" data-chart="horizontalBar">
+<!--
+{
+ "data" : {
+  "labels" : ["Grapefruit", "Orange", "Kiwi",
+    "Blackberry", "Banana",
+    "Blueberry"],
+  "datasets" : [{
+    "data": [48, 26, 59, 39, 21, 74],
+    "backgroundColor": "#e49436",
+    "borderColor": "#e49436"
+  }]
+  },
+  "options": {
+    "title": {
+      "display": true,
+      "text": "The most delicious fruit?",
+      "fontColor": "gray",
+      "fontSize": 20
+    },
+    "legend": {
+      "display": false
+    },
+    "scales": {
+      "xAxes": [{
+        "ticks": {
+            "beginAtZero": true,
+            "max": 80,
+            "stepSize": 10,
+            "fontColor": "gray"
+        },
+        "scaleLabel": {
+          "display": true,
+          "labelString": "Respondents",
+          "fontColor": "gray"
+        }
+      }],
+      "yAxes": [{
+        "ticks": {
+            "fontColor": "gray"
+        }
+      }]
+    }
+  }
+}
+-->
+</canvas>
 
 ---?image=/assets/image/amaze.jpg&opacity=65
 
