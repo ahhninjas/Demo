@@ -1,11 +1,11 @@
----?image=/assets/image/amaze.jpg&opacity=75
+---?image=/assets/image/amaze.jpg&opacity=65
 
 
 ### Team Demo
 
 ##### A Presentation going over proposed UI/UX changes to Unibit applications. 
 
----?image=/assets/image/amaze.jpg&opacity=75
+---?image=/assets/image/amaze.jpg&opacity=65
 
 ### App #1 
 ### (Encryption App)
@@ -17,7 +17,7 @@ Community Discussion Takes Place <a href="">Here</a> about all things Encryption
 
 [1]:CryptIt(https://cryptit.github.io)
 
----?image=/assets/image/amaze.jpg&opacity=75
+---?image=/assets/image/amaze.jpg&opacity=65
 
 ### Encryption App
 
@@ -26,7 +26,7 @@ Community Discussion Takes Place <a href="">Here</a> about all things Encryption
 - Current home screen UI design 
 - Current website: https://securedoc.io 
 
----?image=/assets/image/amaze.jpg&opacity=75
+---?image=/assets/image/amaze.jpg&opacity=65
 
 ### Encryption App Modified
 
@@ -35,7 +35,7 @@ Community Discussion Takes Place <a href="">Here</a> about all things Encryption
 - Proposed main screen changes 
 - Future website: https://encryption.app 
 
----?image=/assets/image/amaze.jpg&opacity=75
+---?image=/assets/image/amaze.jpg&opacity=65
 
 ### App #2 
 ### (Vote App)
