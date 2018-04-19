@@ -4,7 +4,7 @@
 
 ##### A Presentation going over proposed UI/UX changes to Unibit applications. 
 
----?image=/assets/image/light-graph-background-gradient.jpg&opacity=80
+---
 
 ### App #1 
 ### (Encryption App)
@@ -60,7 +60,7 @@ for all things App #2 related.
 - Proposed main screen changes 
 - Future website --> https://vote.app
 
----?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
+---?image=/assets/image/light-graph-background-gradient.jpg&opacity=80
 
 ### App #3 
 ### (Universal Basic Income Token)
@@ -112,7 +112,7 @@ for all things App #4 related.
 <i class="fa fa-bug fa-3x" aria-hidden="true"> </i><br>
 [Bugs To Fix @fa[gp-download]](https://gitcoin.co/funding/details/?url=https://github.com/unibitlabs/electron-multichain-framework/issues/1)
 
----?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
+---?image=backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg
 
 ### App #5 (Scout Browser)
 
