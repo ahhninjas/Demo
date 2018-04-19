@@ -4,7 +4,7 @@
 
 ##### A Presentation going over proposed UI/UX changes to Unibit applications. 
 
----
+---?image=/assets/image/Marvellous-Gradient-Wallpaper.jpg
 
 ### App #1 
 ### (Encryption App)
@@ -16,7 +16,7 @@ Community Discussion Takes Place <a href="">Here</a> about all things Encryption
 
 [1]:CryptIt(https://cryptit.github.io)
 
----?image=/assets/image/damn.jpg
+---?image=/assets/image/Marvellous-Gradient-Wallpaper.jpg
 
 ### Encryption App
 
