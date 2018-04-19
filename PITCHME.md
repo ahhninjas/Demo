@@ -20,12 +20,13 @@ Community Discussion Takes Place <a href="">Here</a> about all things Encryption
 ---?image=/assets/image/amaze.jpg&opacity=65
 
 ### Encryption App
+<center>
 - Current home screen design
-![alt](/assets/image/demo/cryptit-main.jpg)
 
+![alt](/assets/image/demo/cryptit-main.jpg)
  
 - Current website: https://securedoc.io 
-
+</center>
 ---?image=/assets/image/amaze.jpg&opacity=65
 
 ### Encryption App Modified
