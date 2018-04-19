@@ -1,4 +1,4 @@
----?image=/assets/image/white.jpg&opacity=30
+---?image=/assets/image/honeycomb.jpg&opacity=30
 
 ### Team Demo
 
