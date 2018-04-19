@@ -1,4 +1,4 @@
----?image=/assets/image/black.jpg
+---?image=/assets/image/2739531-dark-blue-wallpapers.png
 
 ### Team Demo
 
