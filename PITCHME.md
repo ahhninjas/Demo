@@ -40,7 +40,7 @@ Website: https://encryption.app
 
 ### Vote App
 
-![YouTube Video](https://www.youtube.com/embed/dNJdJIwCF_Y)
+![YouTube Video](https://www.youtube.com/embed/-VXYZmrquYA)
 
 Community Discussion Takes Place Here
 for all things App #2 related.
