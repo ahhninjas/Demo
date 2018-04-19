@@ -127,6 +127,108 @@ for all things App #5 related.
 
 - Proposed main screen changes
 
+
+---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
+
+### App #7 (UniqueSwarm Script)
+
+Community Discussion Takes Place Here
+for all things App #7 related.
+
+---
+
+### Unique Swarm Setup Script
+
+![alt](/assets/image/demo/)
+
+- Status: In Progress 
+- Current website: http://
+
+---
+
+### Unique Swarm Modified
+
+![alt]()
+
+- Proposed changes 
+- Future website: http://
+
+
+---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
+
+### App #8 (PC New App)
+
+Community Discussion Takes Place Here
+for all things App #8 related.
+
+---
+
+### PC New App
+
+![alt](/assets/image/demo/voteapp-main.png)
+
+- Current main screen 
+- Current website: http://
+
+---
+
+### PC New App Modified
+
+![alt]()
+
+- Proposed changes 
+- Future website: http://
+
+---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
+
+### App #9 (Fw App)
+
+Community Discussion Takes Place Here
+for all things App #9 related.
+
+---
+
+### Fw App
+
+![alt](/assets/image/demo/framework-main.png)
+
+- Current main screen 
+- Current website --> http://
+
+---
+
+### Fw App Modified
+
+![alt]()
+
+- Proposed changes 
+- Future website: https://unibit.app
+
+---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
+
+### App #10 (Trucking App)
+
+Community Discussion Takes Place Here
+for all things App #10 related.
+
+---
+
+### Trucking App
+
+![alt](/assets/image/demo/)
+
+- Current main screen 
+- Current website: http://
+
+---
+
+### Trucking App Modified
+
+![alt]()
+
+- Proposed changes 
+- Future website: http://
+
 ---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
 
 ### App Slides End ()
