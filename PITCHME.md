@@ -19,6 +19,7 @@ Community Discussion Takes Place <a href="">Here</a> about all things Encryption
 
 ---?image=/assets/image/amaze.jpg&opacity=65
 
+
 ### Encryption App
 
 ![alt](/assets/image/demo/cryptit-main.jpg)
@@ -146,6 +147,10 @@ for all things App #5 related.
 
 Community Discussion Takes Place Here
 for all things App #6 related.
+
+---
+
++++?video=https://youtu.be/HaM_SzCkfpw
 
 ---
 
