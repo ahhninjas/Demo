@@ -1,4 +1,4 @@
----?image=/assets/image/blue-3.jpg
+---?image=/assets/image/spread.jpg
 
 ### Team Demo
 
