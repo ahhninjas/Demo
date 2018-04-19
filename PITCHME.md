@@ -14,6 +14,7 @@ Community Discussion Takes Place <a href="">Here</a> about all things Encryption
 
 ![YouTube Video](https://www.youtube.com/embed/dNJdJIwCF_Y)
 [1]:CryptIt(https://cryptit.github.io)
+
 ---?image=/assets/image/amaze.jpg&opacity=65
 
 ### Encryption App
@@ -126,7 +127,8 @@ for all things App #4 related.
 Community Discussion Takes Place Here
 for all things App #5 related.
 
----
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
+
 ### Scout Browser App
 
 ![alt](/assets/image/demo/scoutbrowser-main.png)
@@ -134,7 +136,7 @@ for all things App #5 related.
 - Current home screen UI design 
 - Current website --> http://scout.click 
 
----
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
 ### Scout Browser App Modified
 
@@ -143,7 +145,7 @@ for all things App #5 related.
 - Proposed main screen changes
 
 
----?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
 ### App #6 (UniqueSwarm Script)
 
@@ -159,7 +161,7 @@ for all things App #6 related.
 - Status: In Progress 
 - Current website: http://
 
----
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
 ### Unique Swarm Modified
 
@@ -175,7 +177,7 @@ for all things App #6 related.
 Community Discussion Takes Place Here
 for all things App #7 related.
 
----
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
 ### PC New App
 
@@ -184,7 +186,7 @@ for all things App #7 related.
 - Current main screen 
 - Current website: http://
 
----
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
 ### PC New App Modified
 
@@ -193,7 +195,7 @@ for all things App #7 related.
 - Proposed changes 
 - Future website: http://
 
----?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
 ### App #8 (Fw App)
 
