@@ -123,6 +123,7 @@ Website: http://unibit.rundis.com
 [Bugs To Fix @fa[gp-download]](https://gitcoin.co/funding/details/?url=https://github.com/unibitlabs/electron-multichain-framework/issues/1)
 
 ---?image=/assets/image/black.jpg&opacity=90
+
 ### The Scout Browser
 
 ![YouTube Video](https://www.youtube.com/embed/dNJdJIwCF_Y)
@@ -211,10 +212,11 @@ for all things App #8 related.
 
 ### D App Framework
 
-![alt](/assets/image/demo/fw.png)
-
-- Current main screen 
-- Current website --> http://
+Current User Interface
+<br>
+![alt](/assets/image/fw.png)
+<br>
+Website: http://
 
 ---?image=/assets/image/black.jpg&opacity=75
 
