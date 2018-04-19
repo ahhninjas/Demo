@@ -64,7 +64,7 @@ Website: http://vote.rockthepoll.com
 - Proposed main screen changes 
 - Future website --> https://vote.app
 
----?image=/assets/image/light-graph-background-gradient.jpg&opacity=80
+---
 
 ### App #3 
 ### (Universal Basic Income Token)
@@ -72,7 +72,7 @@ Website: http://vote.rockthepoll.com
 Community Discussion Takes Place Here
 for all things App #3 related.
 
----?image=/assets/image/light-graph-background-gradient.jpg&opacity=80
+---?image=/assets/image/light-graph-background-gradient.jpg&opacity=75
 
 
 ### UBIT Web Wallet Design
@@ -82,7 +82,7 @@ for all things App #3 related.
 - Current web wallet design 
 - Current website --> http://ubit.chickenkiller.com
 
----?image=/assets/image/light-graph-background-gradient.jpg&opacity=80
+---?image=/assets/image/light-graph-background-gradient.jpg&opacity=75
 
 
 ### UBIT Web Wallet Modified
@@ -92,14 +92,14 @@ for all things App #3 related.
 - Proposed web wallet changes 
 - Future website --> https://wallet.unibit.app
 
----?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=90
+---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=75
 
 ### App #4 (Universal Multichain Wallet)
 
 Community Discussion Takes Place Here
 for all things App #4 related.
 
----?image=/assets/image/light-graph-background-gradient.jpg&opacity=80
+---?image=/assets/image/light-graph-background-gradient.jpg&opacity=75
 
 ### UMW App
 
@@ -119,7 +119,7 @@ for all things App #4 related.
 <i class="fa fa-bug fa-3x" aria-hidden="true"> </i><br>
 [Bugs To Fix @fa[gp-download]](https://gitcoin.co/funding/details/?url=https://github.com/unibitlabs/electron-multichain-framework/issues/1)
 
----?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
 ### App #5 (Scout Browser)
 
