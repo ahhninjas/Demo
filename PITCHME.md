@@ -1,4 +1,4 @@
----?image=/assets/image/amaze.jpg&opacity=75
+---?image=/assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
 ### Team Demo
 
