@@ -8,8 +8,7 @@
 ### App #1 
 ### (Encryption App)
 
-Community Discussion Takes Place Here
-about all things App #1 related.
+Community Discussion Takes Place <a href="">Here</a> about all things App #1 related.
 
 ---
 
