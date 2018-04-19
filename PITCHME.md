@@ -47,11 +47,14 @@ for all things App #2 related.
 ---?image=/assets/image/amaze.jpg&opacity=75
 
 ### Voting App
-
+<center>
+Current User Interface
+ 
 ![alt](/assets/image/demo/voteapp-main.png)
 
-- Current main screen 
-- Current website --> http://vote.rockthepoll.com
+Website: http://vote.rockthepoll.com
+
+</center>
 
 ---
 
