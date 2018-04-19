@@ -168,7 +168,7 @@ for all things App #6 related.
 - Proposed changes 
 - Future website: http://
 
----?image=/assets/image/white.jpg&opacity=50
+---
 
 ### App #7 (PC New App)
 
@@ -245,12 +245,6 @@ for all things App #9 related.
 - Proposed changes 
 - Future website: http://
 
----
-
-### App Slides End ()
-
-End of App discussion & Previews..
-
 ---?image=/assets/image/white.jpg&opacity=50
 
 ### Suggested Changes
@@ -260,7 +254,7 @@ End of App discussion & Previews..
 - Custom 3D/Animated Styling |
 - Custom Logo, TOC, and Footnotes |
 
----?image=/assets/image/white.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=75
 
 ### Get Involved!
 
