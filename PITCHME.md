@@ -87,11 +87,11 @@ Website: http://ubit.chickenkiller.com
 
 ### UBIT Modified
 Current Login Screen:<br>
-![alt](/assets/image/demo/ubit-login.png)
+![alt](/assets/image/ubit-login.png)
 <br>
 New Login Screen:
 <br>
-![alt](/assets/image/demo/ubit-new-login.png)
+![alt](/assets/image/ubit-new-login.png)
 
 Website: https://ubit.chickenkiller.com
 
