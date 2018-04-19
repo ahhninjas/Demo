@@ -51,7 +51,7 @@ for all things App #2 related.
 Current User Interface
 <br>
 ![alt](/assets/image/demo/voteapp-main.png)
-
+<br>
 Website: http://vote.rockthepoll.com
 </center>
 
