@@ -1,4 +1,4 @@
----?image=/assets/image/3d.jpg&opacity=50
+---?image=/assets/image/3d.jpg
 ### Team Demo
 
 ##### A Presentation going over proposed UI/UX changes to Unibit applications. 
