@@ -151,6 +151,8 @@ Website: http://scout.click
 
 ### UniqueSwarm Script
 
+![YouTube Video](https://www.youtube.com/embed/HaM_SzCkfpw)
+
 Community Discussion Takes Place Here
 for all things App #6 related.
 
