@@ -15,7 +15,7 @@ Community Discussion Takes Place <a href="">Here</a> about all things Encryption
 
 [1]:CryptIt(https://cryptit.github.io)
 
----
+---?image=/assets/image/3d.jpg
 
 ### Encryption App
 
@@ -24,7 +24,7 @@ Community Discussion Takes Place <a href="">Here</a> about all things Encryption
 - Current home screen UI design 
 - Current website: https://securedoc.io 
 
----
+---?image=/assets/image/3d.jpg
 
 ### Encryption App Modified
 
