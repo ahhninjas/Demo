@@ -48,12 +48,11 @@ for all things App #2 related.
 
 ### Voting App
 <center>
-Current User Interface<br>
- <br>
-![alt](/assets/image/demo/voteapp-main.png)
+Current User Interface
 <br>
-Website: http://vote.rockthepoll.com
+![alt](/assets/image/demo/voteapp-main.png)
 
+Website: http://vote.rockthepoll.com
 </center>
 
 ---
