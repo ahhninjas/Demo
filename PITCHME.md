@@ -83,8 +83,6 @@ Current User Interface
 ![alt](/assets/image/ubit-main.png)
 <br></center>
 
-Website: http://ubit.chickenkiller.com
-
 ---?image=/assets/image/black.jpg&opacity=75
 
 ### UBIT Modified
