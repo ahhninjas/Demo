@@ -148,11 +148,7 @@ for all things App #5 related.
 Community Discussion Takes Place Here
 for all things App #6 related.
 
----
-
 +++?video=https://youtu.be/HaM_SzCkfpw
-
----
 
 ### Unique Swarm Setup Script
 
