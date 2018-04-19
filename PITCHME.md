@@ -1,4 +1,4 @@
----?image=/assets/image/black.jpg&opacity=80
+---?image=/assets/image/black.jpg&opacity=90
 
 ### Team Demo
 
@@ -6,7 +6,7 @@
 
 ##### A Presentation going over proposed UI/UX changes to Unibit applications. 
 
----?image=/assets/image/black.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=90
 
 ### App #1 
 ### (Encryption App)
@@ -15,7 +15,7 @@ Community Discussion Takes Place <a href="">Here</a> about all things Encryption
 ![YouTube Video](https://www.youtube.com/embed/dNJdJIwCF_Y)
 [1]:CryptIt(https://cryptit.github.io)
 
----?image=/assets/image/black.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=75
 
 ### Encryption App
 <center>
@@ -26,7 +26,7 @@ Current User Interface<br>
 Demo: https://securedoc.io 
 </center>
 
----?image=/assets/image/black.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=75
 
 ### Encryption App Modified
 <center>
