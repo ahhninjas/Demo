@@ -4,9 +4,10 @@
 
 ---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
 
-### Test Background
+### App #1 
 
-Community Discussion Takes Place @ |
+Community Discussion Takes Place Here
+about all things App #1 related.
 
 ---
 
@@ -26,6 +27,13 @@ Community Discussion Takes Place @ |
 - Proposed main screen changes 
 - Future website: https://encryption.app 
 
+---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
+
+### App #2
+
+Community Discussion Takes Place Here
+for all things App #2 related.
+
 ---
 
 ### Voting App
@@ -43,6 +51,13 @@ Community Discussion Takes Place @ |
 
 - Proposed main screen changes 
 - Future website --> https://vote.app
+
+---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
+
+### App #3
+
+Community Discussion Takes Place Here
+for all things App #3 related.
 
 ---
 
@@ -62,8 +77,14 @@ Community Discussion Takes Place @ |
 - Proposed web wallet changes 
 - Future website --> https://wallet.unibit.app
 
----
+---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
 
+### App #4
+
+Community Discussion Takes Place Here
+for all things App #4 related.
+
+---
 ### UMW App
 
 ![alt](/assets/image/demo/umw-main.png)
@@ -82,8 +103,14 @@ Community Discussion Takes Place @ |
 <i class="fa fa-bug fa-3x" aria-hidden="true"> </i><br>
 [Bugs To Fix @fa[gp-download]](https://gitcoin.co/funding/details/?url=https://github.com/unibitlabs/electron-multichain-framework/issues/1)
 
----
+---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
 
+### App #5
+
+Community Discussion Takes Place Here
+for all things App #5 related.
+
+---
 ### Scout Browser App
 
 ![alt](/assets/image/demo/scoutbrowser-main.png)
