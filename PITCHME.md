@@ -112,7 +112,7 @@ for all things App #4 related.
 <i class="fa fa-bug fa-3x" aria-hidden="true"> </i><br>
 [Bugs To Fix @fa[gp-download]](https://gitcoin.co/funding/details/?url=https://github.com/unibitlabs/electron-multichain-framework/issues/1)
 
----?image=backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg
 
 ### App #5 (Scout Browser)
 
