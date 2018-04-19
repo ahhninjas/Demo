@@ -14,7 +14,7 @@ Community Discussion Takes Place <a href="">Here</a> about all things Encryption
 
 
 [1]: [CryptIt](https://cryptit.github.io)
-[2] = Contribution guidelines for this project (docs/CONTRIBUTING.md)
+[2]: Contribution(docs/CONTRIBUTING.md)
 
 ---
 
