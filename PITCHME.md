@@ -1,4 +1,4 @@
----?image=/assets/image/white.jpg
+---?image=/assets/image/white.jpg&opacity=80
 
 ### Team Demo
 
