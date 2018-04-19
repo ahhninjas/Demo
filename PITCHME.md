@@ -1,4 +1,4 @@
----?image=/assets/image/2739661-dark-blue-wallpapers.jpg&opacity=75
+---?image=/assets/image/blue-1.jpg
 
 ### Team Demo
 
