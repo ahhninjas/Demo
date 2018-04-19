@@ -6,7 +6,7 @@
 
 ##### A Presentation going over proposed UI/UX changes to Unibit applications. 
 
----?image=/assets/image/amaze.jpg
+---?image=/assets/image/amaze.jpg&opacity=65
 
 ### App #1 
 ### (Encryption App)
@@ -28,13 +28,15 @@ Demo: https://securedoc.io
 ---?image=/assets/image/amaze.jpg&opacity=65
 
 ### Encryption App Modified
+<center>
+Proposed Changes
 
 ![alt](assets/image/encryption-app-mod.jpg)
+ 
+Website: https://encryption.app 
+</center>
 
-- Proposed main screen changes 
-- Future website: https://encryption.app 
-
----?image=/assets/image/amaze.jpg&opacity=65
+---
 
 ### App #2 
 ### (Vote App)
