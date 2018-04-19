@@ -1,8 +1,8 @@
----?image=/assets/image/amaze.jpg&opacity=85
+---?image=/assets/image/amaze.jpg&opacity=75
 
 ### Team Demo
 
-http://universalbitproject.com/
+## http://universalbitproject.com/
 
 ##### A Presentation going over proposed UI/UX changes to Unibit applications. 
 
