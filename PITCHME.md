@@ -1,4 +1,4 @@
----?image=/assets/image/spread.jpg
+---?image=/assets/image/blue-fancy.jpg
 
 ### Team Demo
 
