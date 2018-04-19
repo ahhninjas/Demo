@@ -1,10 +1,11 @@
+---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
 ### Team Demo
 
 ##### A Presentation going over proposed UI/UX changes to Unibit applications. 
 
 ---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
 
-### App #1 
+### App #1 (Encryption App)
 
 Community Discussion Takes Place Here
 about all things App #1 related.
@@ -29,7 +30,7 @@ about all things App #1 related.
 
 ---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
 
-### App #2
+### App #2 (Vote App)
 
 Community Discussion Takes Place Here
 for all things App #2 related.
@@ -54,7 +55,7 @@ for all things App #2 related.
 
 ---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
 
-### App #3
+### App #3 (Universal Basic Income Token)
 
 Community Discussion Takes Place Here
 for all things App #3 related.
@@ -79,7 +80,7 @@ for all things App #3 related.
 
 ---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
 
-### App #4
+### App #4 (Universal Multichain Wallet)
 
 Community Discussion Takes Place Here
 for all things App #4 related.
@@ -105,7 +106,7 @@ for all things App #4 related.
 
 ---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
 
-### App #5
+### App #5 (Scout Browser)
 
 Community Discussion Takes Place Here
 for all things App #5 related.
@@ -125,6 +126,13 @@ for all things App #5 related.
 ![alt](assets/image/encryption-app-mod.jpg)
 
 - Proposed main screen changes
+
+---?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
+
+### App Slides End ()
+
+Community Discussion Takes Place Here
+for all things App #6 related.
 
 ---
 
