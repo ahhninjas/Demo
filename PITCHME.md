@@ -8,7 +8,9 @@
 ### App #1 
 ### (Encryption App)
 
-Community Discussion Takes Place <a href="">Here</a> about all things App #1 related.
+Community Discussion Takes Place <a href="">Here</a> about all things Encryption App[^1] related.
+
+[1]: [CryptIt](https://cryptit.github.io)
 
 ---
 
