@@ -10,7 +10,11 @@
 
 Community Discussion Takes Place <a href="">Here</a> about all things Encryption App [^1] related.
 
+![YouTube Video](https://www.youtube.com/embed/dNJdJIwCF_Y)
+
+
 [1]: [CryptIt](https://cryptit.github.io)
+[2] = Contribution guidelines for this project (docs/CONTRIBUTING.md)
 
 ---
 
