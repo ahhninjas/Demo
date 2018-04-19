@@ -86,12 +86,15 @@ Website: http://ubit.chickenkiller.com
 ---?image=/assets/image/black.jpg&opacity=75
 
 ### UBIT Modified
-Current Login Screen:<br>
-![alt](/assets/image/ubit-original.png)
-<br>
-New Login Screen:
-<br>
-![alt](/assets/image/ubit-new-login.png)
+
+<div class="left">
+    <img src="/assets/image/ubit-original.png"></img>
+    Current Login Screen</a>
+</div>
+<div class="right">
+<img src="/assets/image/ubit-new-login.png"></img>
+Upcoming Login Screen</a>
+</div>
 
 Website: https://ubit.chickenkiller.com
 
