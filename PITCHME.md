@@ -21,9 +21,9 @@ Community Discussion Takes Place <a href="">Here</a> about all things Encryption
 
 ### Encryption App
 <center>
-Current User Interface
+Current User Interface<br>
 
-![alt](/assets/image/demo/cryptit-main.jpg)
+![alt](/assets/image/demo/cryptit-main.jpg)<br>
  
 Demo: https://securedoc.io 
 </center>
