@@ -80,24 +80,25 @@ for all things App #3 related.
 Current User Interface
  <br>
 ![alt](/assets/image/demo/ubit-original.png)
-<br>
+<br></center>
+
 Website: http://ubit.chickenkiller.com
-</center>
+
 ---?image=/assets/image/black.jpg&opacity=75
 
 ### UBIT Modified
 
 <div class="left">
-     Current Login UI
+     Current Registration/Login UI
     <img src="https://github.com/UniBitProject/team-demo/blob/master/assets/image/ubit-original.png?raw=true"></img>
 </div>
 <div class="right">
-  Upcoming Login UI
+  New Registration/Login UI
   <img src="https://github.com/UniBitProject/team-demo/blob/master/assets/image/ubit-new-login.png?raw=true"></img>
 </div>
-
+<center>
 Website: https://ubit.chickenkiller.com
-
+</center>
 ---?image=/assets/image/black.jpg&opacity=90
 
 ### Universal Multichain Wallet
