@@ -1,4 +1,4 @@
----?image=/assets/image/blue-fancy.jpg&opacity=80
+---?image=/assets/image/blue-fancy.jpg&opacity=75
 
 ### Team Demo
 
