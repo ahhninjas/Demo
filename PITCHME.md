@@ -100,11 +100,11 @@ for all things App #4 related.
 ---?image=/assets/image/white.jpg&opacity=50
 
 ### UMW App
-
+Current User Interface
+<br>
 ![alt](/assets/image/demo/umw-main.png)
-
-- Current home screen UI design 
-- Current website --> http://unibit.rundis.com 
+<br>
+Website: http://unibit.rundis.com 
 
 ---?image=/assets/image/white.jpg&opacity=50
 
