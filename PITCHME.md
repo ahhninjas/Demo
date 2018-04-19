@@ -1,4 +1,4 @@
----?image=/assets/image/black.jpg&opacity=75
+---?image=/assets/image/black.jpg
 
 ### Team Demo
 
@@ -6,7 +6,7 @@
 
 ##### A Presentation going over proposed UI/UX changes to Unibit applications. 
 
----?image=/assets/image/amaze.jpg&opacity=65
+---?image=/assets/image/amaze.jpg&opacity=75
 
 ### App #1 
 ### (Encryption App)
@@ -15,7 +15,7 @@ Community Discussion Takes Place <a href="">Here</a> about all things Encryption
 ![YouTube Video](https://www.youtube.com/embed/dNJdJIwCF_Y)
 [1]:CryptIt(https://cryptit.github.io)
 
----?image=/assets/image/amaze.jpg&opacity=65
+---?image=/assets/image/amaze.jpg&opacity=75
 
 ### Encryption App
 <center>
@@ -37,7 +37,7 @@ Proposed Changes
 Website: https://encryption.app 
 </center>
 
----
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
 ### App #2 
 ### (Vote App)
@@ -56,7 +56,7 @@ Current User Interface
 Website: http://vote.rockthepoll.com
 </center>
 
----
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
 ### Voting App Modified
 
@@ -65,7 +65,7 @@ Website: http://vote.rockthepoll.com
 - Proposed main screen changes 
 - Future website --> https://vote.app
 
----
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
 ### App #3 
 ### (Universal Basic Income Token)
@@ -73,8 +73,7 @@ Website: http://vote.rockthepoll.com
 Community Discussion Takes Place Here
 for all things App #3 related.
 
----?image=/assets/image/light-graph-background-gradient.jpg&opacity=75
-
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
 ### UBIT Web Wallet Design
 
@@ -83,8 +82,7 @@ for all things App #3 related.
 - Current web wallet design 
 - Current website --> http://ubit.chickenkiller.com
 
----?image=/assets/image/light-graph-background-gradient.jpg&opacity=75
-
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
 ### UBIT Web Wallet Modified
 
@@ -93,14 +91,14 @@ for all things App #3 related.
 - Proposed web wallet changes 
 - Future website --> https://wallet.unibit.app
 
----?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=75
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
 ### App #4 (Universal Multichain Wallet)
 
 Community Discussion Takes Place Here
 for all things App #4 related.
 
----?image=/assets/image/light-graph-background-gradient.jpg&opacity=75
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
 ### UMW App
 
@@ -109,7 +107,7 @@ for all things App #4 related.
 - Current home screen UI design 
 - Current website --> http://unibit.rundis.com 
 
----
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
 ### UMW App Modified
 
@@ -144,7 +142,6 @@ for all things App #5 related.
 
 - Proposed main screen changes
 
-
 ---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
 ### App #6 (UniqueSwarm Script)
@@ -170,7 +167,7 @@ for all things App #6 related.
 - Proposed changes 
 - Future website: http://
 
----?image=/assets/image/amaze.png&opacity=90
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
 ### App #7 (PC New App)
 
@@ -202,7 +199,8 @@ for all things App #7 related.
 Community Discussion Takes Place Here
 for all things App #8 related.
 
----
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
+
 
 ### Fw App
 
@@ -211,7 +209,8 @@ for all things App #8 related.
 - Current main screen 
 - Current website --> http://
 
----
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
+
 
 ### Fw App Modified
 
@@ -220,14 +219,14 @@ for all things App #8 related.
 - Proposed changes 
 - Future website: https://unibit.app
 
----?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=80
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
 ### App #9 (Trucking App)
 
 Community Discussion Takes Place Here
 for all things App #9 related.
 
----
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
 ### Trucking App
 
@@ -236,7 +235,7 @@ for all things App #9 related.
 - Current main screen 
 - Current website: http://
 
----
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
 ### Trucking App Modified
 
@@ -245,13 +244,13 @@ for all things App #9 related.
 - Proposed changes 
 - Future website: http://
 
----?image=/assets/image/Light-Grey-Background-Tumblr-8-1024x640.jpg&opacity=20
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
 ### App Slides End ()
 
 End of App discussion & Previews..
 
----
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
 ### Suggested Changes
 
@@ -260,7 +259,7 @@ End of App discussion & Previews..
 - Custom 3D/Animated Styling |
 - Custom Logo, TOC, and Footnotes |
 
----
+---?image=assets/image/backgrounds-blue-windwos-wallpaper-gradient-images-system-1.jpeg&opacity=75
 
 ### Get Involved!
 
