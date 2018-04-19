@@ -15,7 +15,7 @@ Community Discussion Takes Place <a href="">Here</a> about all things Encryption
 ![YouTube Video](https://www.youtube.com/embed/dNJdJIwCF_Y)
 [1]:CryptIt(https://cryptit.github.io)
 
----?image=/assets/image/white.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=50
 
 ### Encryption App
 <center>
@@ -26,7 +26,7 @@ Current User Interface<br>
 Demo: https://securedoc.io 
 </center>
 
----?image=/assets/image/white.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=50
 
 ### Encryption App Modified
 <center>
@@ -45,7 +45,7 @@ Website: https://encryption.app
 Community Discussion Takes Place Here
 for all things App #2 related.
 
----?image=/assets/image/white.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=50
 
 ### Voting App
 <center>
@@ -56,7 +56,7 @@ Current User Interface
 Website: http://vote.rockthepoll.com
 </center>
 
----?image=/assets/image/white.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=50
 
 ### Voting App Modified
 
@@ -73,7 +73,7 @@ Website: http://vote.rockthepoll.com
 Community Discussion Takes Place Here
 for all things App #3 related.
 
----?image=/assets/image/white.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=50
 
 ### UBIT Web Wallet Design
 <center>
@@ -83,7 +83,7 @@ Current User Interface
 <br>
 Website: http://ubit.chickenkiller.com
 </center>
----?image=/assets/image/white.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=50
 
 ### UBIT Web Wallet Modified
 
@@ -99,7 +99,7 @@ Website: http://ubit.chickenkiller.com
 Community Discussion Takes Place Here
 for all things App #4 related.
 
----?image=/assets/image/white.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=50
 
 ### UMW App
 Current User Interface
@@ -108,7 +108,7 @@ Current User Interface
 <br>
 Website: http://unibit.rundis.com 
 
----?image=/assets/image/white.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=50
 
 ### UMW App Modified
 
@@ -126,7 +126,7 @@ Website: http://unibit.rundis.com
 Community Discussion Takes Place Here
 for all things App #5 related.
 
----?image=/assets/image/white.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=50
 
 ### Scout Browser App
 Current User Interface
@@ -135,7 +135,7 @@ Current User Interface
 <br>
 Website: http://scout.click 
 
----?image=/assets/image/white.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=50
 
 ### Scout Browser App Modified
 
@@ -150,7 +150,7 @@ Website: http://scout.click
 Community Discussion Takes Place Here
 for all things App #6 related.
 
----?image=/assets/image/white.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=50
 
 ### Unique Swarm Setup Script
 
@@ -159,7 +159,7 @@ for all things App #6 related.
 - Status: In Progress 
 - Current website: http://
 
----?image=/assets/image/white.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=50
 
 ### Unique Swarm Modified
 
@@ -175,7 +175,7 @@ for all things App #6 related.
 Community Discussion Takes Place Here
 for all things App #7 related.
 
----?image=/assets/image/white.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=50
 
 ### PC New App
 
@@ -184,7 +184,7 @@ for all things App #7 related.
 - Current main screen 
 - Current website: http://
 
----?image=/assets/image/white.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=50
 
 ### PC New App Modified
 
@@ -200,7 +200,7 @@ for all things App #7 related.
 Community Discussion Takes Place Here
 for all things App #8 related.
 
----?image=/assets/image/white.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=50
 
 
 ### Fw App
@@ -210,7 +210,7 @@ for all things App #8 related.
 - Current main screen 
 - Current website --> http://
 
----?image=/assets/image/white.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=50
 
 
 ### Fw App Modified
@@ -227,7 +227,7 @@ for all things App #8 related.
 Community Discussion Takes Place Here
 for all things App #9 related.
 
----?image=/assets/image/white.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=50
 
 ### Trucking App
 
@@ -236,7 +236,7 @@ for all things App #9 related.
 - Current main screen 
 - Current website: http://
 
----?image=/assets/image/white.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=50
 
 ### Trucking App Modified
 
@@ -245,7 +245,7 @@ for all things App #9 related.
 - Proposed changes 
 - Future website: http://
 
----?image=/assets/image/white.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=50
 
 ### Suggested Changes
 
