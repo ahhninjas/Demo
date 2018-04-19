@@ -89,11 +89,11 @@ Website: http://ubit.chickenkiller.com
 
 <div class="left">
      Current Login UI
-    <img src="/assets/image/ubit-original.png"></img>
+    <img src="./assets/image/ubit-original.png"></img>
 </div>
 <div class="right">
   Upcoming Login UI
-  <img src="/assets/image/ubit-new-login.png"></img>
+  <img src="../assets/image/ubit-new-login.png"></img>
 </div>
 
 Website: https://ubit.chickenkiller.com
