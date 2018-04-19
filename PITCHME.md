@@ -1,10 +1,12 @@
+---?image=/assets/image/white.jpg
+
 ### Team Demo
 
 ###### http://universalbitproject.com/
 
 ##### A Presentation going over proposed UI/UX changes to Unibit applications. 
 
----?image=/assets/image/white.jpg&opacity=50
+---
 
 ### App #1 
 ### (Encryption App)
@@ -35,7 +37,7 @@ Proposed Changes
 Website: https://encryption.app 
 </center>
 
----?image=/assets/image/white.jpg&opacity=50
+---
 
 ### App #2 
 ### (Vote App)
