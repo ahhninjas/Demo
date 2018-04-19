@@ -62,8 +62,7 @@ Website: http://vote.rockthepoll.com
 
 ![alt]()
 
-- Proposed main screen changes 
-- Future website --> https://vote.app
+Results website: http://198.23.196.54:2750/VoteChain/assetref/7-264-40763#holders
 
 ---?image=/assets/image/black.jpg&opacity=90
 
