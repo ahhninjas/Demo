@@ -94,12 +94,13 @@ Website: http://ubit.chickenkiller.com
 
 ---?image=/assets/image/black.jpg&opacity=90
 
-### App #4 (Universal Multichain Wallet)
+### App #4 
+### Universal Multichain Wallet
 
 Community Discussion Takes Place Here
 for all things App #4 related.
 
----?image=/assets/image/black.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=75
 
 ### UMW App
 Current User Interface
@@ -108,7 +109,7 @@ Current User Interface
 <br>
 Website: http://unibit.rundis.com 
 
----?image=/assets/image/black.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=75
 
 ### UMW App Modified
 
@@ -119,14 +120,14 @@ Website: http://unibit.rundis.com
 <i class="fa fa-bug fa-3x" aria-hidden="true"> </i><br>
 [Bugs To Fix @fa[gp-download]](https://gitcoin.co/funding/details/?url=https://github.com/unibitlabs/electron-multichain-framework/issues/1)
 
----?image=/assets/image/black.jpg&opacity=75
+---?image=/assets/image/black.jpg&opacity=90
 
 ### App #5 (Scout Browser)
 
 Community Discussion Takes Place Here
 for all things App #5 related.
 
----?image=/assets/image/black.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=75
 
 ### Scout Browser App
 Current User Interface
@@ -135,7 +136,7 @@ Current User Interface
 <br>
 Website: http://scout.click 
 
----?image=/assets/image/black.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=75
 
 ### Scout Browser App Modified
 
@@ -143,14 +144,14 @@ Website: http://scout.click
 
 - Proposed main screen changes
 
----?image=/assets/image/black.jpg&opacity=75
+---?image=/assets/image/black.jpg&opacity=90
 
 ### App #6 (UniqueSwarm Script)
 
 Community Discussion Takes Place Here
 for all things App #6 related.
 
----?image=/assets/image/black.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=75
 
 ### Unique Swarm Setup Script
 
@@ -159,7 +160,7 @@ for all things App #6 related.
 - Status: In Progress 
 - Current website: http://
 
----?image=/assets/image/black.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=75
 
 ### Unique Swarm Modified
 
@@ -175,7 +176,7 @@ for all things App #6 related.
 Community Discussion Takes Place Here
 for all things App #7 related.
 
----?image=/assets/image/black.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=75
 
 ### PC New App
 
@@ -184,7 +185,7 @@ for all things App #7 related.
 - Current main screen 
 - Current website: http://
 
----?image=/assets/image/black.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=75
 
 ### PC New App Modified
 
@@ -193,14 +194,14 @@ for all things App #7 related.
 - Proposed changes 
 - Future website: http://
 
----?image=/assets/image/black.jpg&opacity=75
+---?image=/assets/image/black.jpg&opacity=90
 
 ### App #8 (Fw App)
 
 Community Discussion Takes Place Here
 for all things App #8 related.
 
----?image=/assets/image/black.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=75
 
 
 ### Fw App
@@ -210,8 +211,7 @@ for all things App #8 related.
 - Current main screen 
 - Current website --> http://
 
----?image=/assets/image/black.jpg&opacity=50
-
+---?image=/assets/image/black.jpg&opacity=75
 
 ### Fw App Modified
 
@@ -227,7 +227,7 @@ for all things App #8 related.
 Community Discussion Takes Place Here
 for all things App #9 related.
 
----?image=/assets/image/black.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=75
 
 ### Trucking App
 
@@ -236,7 +236,7 @@ for all things App #9 related.
 - Current main screen 
 - Current website: http://
 
----?image=/assets/image/black.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=75
 
 ### Trucking App Modified
 
@@ -245,7 +245,7 @@ for all things App #9 related.
 - Proposed changes 
 - Future website: http://
 
----?image=/assets/image/black.jpg&opacity=50
+---?image=/assets/image/black.jpg&opacity=75
 
 ### Suggested Changes
 
@@ -254,7 +254,7 @@ for all things App #9 related.
 - Custom 3D/Animated Styling |
 - Custom Logo, TOC, and Footnotes |
 
----?image=/assets/image/black.jpg&opacity=75
+---?image=/assets/image/black.jpg&opacity=90
 
 ### Get Involved!
 
