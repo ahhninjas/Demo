@@ -76,9 +76,9 @@ for all things App #3 related.
 ### UBIT Web Wallet Design
 <center>
 Current User Interface
- 
+ <br>
 ![alt](/assets/image/demo/ubit-main.png)
-
+<br>
 Website: http://ubit.chickenkiller.com
 </center>
 ---?image=/assets/image/white.jpg&opacity=50
