@@ -76,10 +76,11 @@ for all things App #3 related.
 ---?image=/assets/image/black.jpg&opacity=75
 
 ### UBIT 
+
 <center>
 Current User Interface
  <br>
-![alt](/assets/image/demo/ubit-original.png)
+![alt](/assets/image/demo/ubit-main.png)
 <br></center>
 
 Website: http://ubit.chickenkiller.com
