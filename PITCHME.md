@@ -188,7 +188,7 @@ for all things App #8 related.
 
 Current UI
 <br>
-![alt](/assets/image/fw.png)
+![alt](/assets/image/fw-white.png)
 <br>
 Website: http://
 
@@ -196,7 +196,7 @@ Website: http://
 
 ### UniBit Framework Modified
 
-![alt]()
+![alt](/assets/image/fw-dark.png)
  
 - Future website: https://unibit.app
 
