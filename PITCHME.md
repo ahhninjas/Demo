@@ -247,11 +247,11 @@ Website: http://
 </div>
 <div class="right">
     <ul>
-        <li>Private Repos</li>
-        <li>Private URLs</li>
-        <li>Password-Protection</li>
-        <li>Image Opacity</li>
-        <li>SVG Image Support</li>
+        <li>Bug Bounties</li>
+        <li>Graphics Art Bounties</li>
+        <li>Spread the word!</li>
+        <li>Use our apps!</li>
+        <li>Leave feedback to make things better!</li>
     </ul>
 </div>
 
