@@ -2,7 +2,8 @@
 
 ### Team Demo
 
-[universalbitproject.com]
+[UniBit](http://universalbitproject.com)
+
 
 ##### A Presentation going over proposed UI/UX changes to Unibit applications. 
 
