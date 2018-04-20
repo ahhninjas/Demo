@@ -1,11 +1,11 @@
 ---?image=/assets/image/black.jpg&opacity=90
 
-### Team Demo
+### Welcome to the 
 
 [UniBit](http://universalbitproject.com)
 
 
-##### A Presentation going over proposed UI/UX changes to Unibit applications. 
+##### Presentation covering UI/UX changes to be applied to UniBit applications. 
 
 ---?image=/assets/image/black.jpg&opacity=75
 
