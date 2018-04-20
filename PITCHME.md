@@ -168,14 +168,11 @@ Video Demo
 
 ![alt](/assets/image/pc-new-1.png)
 
-- Current UI
-- Current website: http://
-
 ---?image=/assets/image/black.jpg&opacity=75
 
 ### PC New App Modified
 
-![alt](/assets/image/pc-new-2.png)
+![alt](/assets/image/pc-new-3.png)
  
 ---?image=/assets/image/black.jpg&opacity=90
 
