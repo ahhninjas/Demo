@@ -2,10 +2,9 @@
 
 ### Welcome to the 
 
-[UniBit](http://universalbitproject.com)
+[UniBit Labs](http://universalbitproject.com)
 
-
-##### Presentation covering UI/UX changes to be applied to UniBit applications. 
+##### Presentation covering UI/UX changes to UniBit applications. 
 
 ---?image=/assets/image/black.jpg&opacity=75
 
@@ -13,13 +12,12 @@
 
 ![YouTube Video](https://www.youtube.com/embed/Sd2oKioNqQU)
 
-Short Video Demonstrating Encryption App
 
 ---?image=/assets/image/black.jpg&opacity=75
 
 ### Encryption App
 <center>
-Current User Interface<br>
+Current UI<br>
 
 ![alt](/assets/image/demo/cryptit-main.jpg)<br>
 <br>
@@ -31,9 +29,9 @@ Demo: https://securedoc.io
 ### Encryption App Modified
 <center>
 Proposed Changes
-
+<br>
 ![alt](assets/image/encryption-app-mod.jpg)
- 
+<br>
 Website: https://encryption.app 
 </center>
 
@@ -42,9 +40,6 @@ Website: https://encryption.app
 ### Vote App
 
 ![YouTube Video](https://www.youtube.com/embed/-VXYZmrquYA)
-
-Community Discussion Takes Place Here
-for all things App #2 related.
 
 ---?image=/assets/image/black.jpg&opacity=75
 
@@ -62,17 +57,14 @@ Website: http://vote.rockthepoll.com
 ### Vote App Modified
 
 ![alt]()
-
+<br>
 Results website: http://198.23.196.54:2750/VoteChain/assetref/7-264-40763#holders
 
 ---?image=/assets/image/black.jpg&opacity=90
 
-### Universal Basic Income Token
+### Universal Basic Income Tokens
 
 ![YouTube Video](https://www.youtube.com/embed/dNJdJIwCF_Y)
-
-Community Discussion Takes Place Here
-for all things App #3 related.
 
 ---?image=/assets/image/black.jpg&opacity=75
 
@@ -91,11 +83,11 @@ Website: https://ubit.chickenkiller.com
 ### UBIT Modified
 
 <div class="left">
-     Current Login Page
+     Current UI
     <img src="https://github.com/UniBitProject/team-demo/blob/master/assets/image/ubit-original.png?raw=true"></img>
 </div>
 <div class="right">
-  New Login Page
+  New UI
   <img src="https://github.com/UniBitProject/team-demo/blob/master/assets/image/ubit-new2.png?raw=true"></img>
 </div>
 
@@ -106,13 +98,10 @@ Website: https://ubit.chickenkiller.com
 ![YouTube Video](https://www.youtube.com/embed/hbozav9dvV0)
 
 
-Community Discussion Takes Place Here
-for all things App #4 related.
-
 ---?image=/assets/image/black.jpg&opacity=75
 
 ### UMW App
-Current User Interface
+Current UI
 <br>
 ![alt](/assets/image/demo/umw-main.png)
 <br>
@@ -124,24 +113,16 @@ Website: http://unibit.rundis.com
 
 ![alt](assets/image/encryption-app-mod.jpg)
 
-- Current Available Bounties
-
-<i class="fa fa-bug fa-3x" aria-hidden="true"> </i><br>
-[Bugs To Fix @fa[gp-download]](https://gitcoin.co/funding/details/?url=https://github.com/unibitlabs/electron-multichain-framework/issues/1)
-
 ---?image=/assets/image/black.jpg&opacity=90
 
 ### The Scout Browser
 
 ![YouTube Video](https://www.youtube.com/embed/dNJdJIwCF_Y)
 
-Community Discussion Takes Place Here
-for all things App #5 related.
-
 ---?image=/assets/image/black.jpg&opacity=75
 
 ### Scout Browser App
-Current User Interface
+Current UI
 <br>
 ![alt](/assets/image/demo/scoutbrowser-main.png)
 <br>
@@ -153,16 +134,13 @@ Website: http://scout.click
 
 ![alt](assets/image/encryption-app-mod.jpg)
 
-- Proposed main screen changes
+- UI changes
 
 ---?image=/assets/image/black.jpg&opacity=90
 
 ### UniqueSwarm Script
 
 ![YouTube Video](https://www.youtube.com/embed/HaM_SzCkfpw)
-
-Community Discussion Takes Place Here
-for all things App #6 related.
 
 ---?image=/assets/image/black.jpg&opacity=75
 
@@ -171,7 +149,6 @@ for all things App #6 related.
 ![alt](/assets/image/demo/)
 
 - Status: In Progress 
-- Current website: http://
 
 ---?image=/assets/image/black.jpg&opacity=75
 
@@ -179,37 +156,30 @@ for all things App #6 related.
 
 ![alt]()
 
-- Proposed changes 
-- Future website: http://
-
 ---?image=/assets/image/black.jpg&opacity=75
 
 ### PC New
 
-Community Discussion Takes Place Here
-for all things App #7 related.
+Video Demo
 
 ---?image=/assets/image/black.jpg&opacity=75
 
 ### PC New App
 
-![alt](/assets/image/demo/)
+![alt](/assets/image/pc-new-1.png)
 
-- Current main screen 
+- Current UI
 - Current website: http://
 
 ---?image=/assets/image/black.jpg&opacity=75
 
 ### PC New App Modified
 
-![alt]()
-
-- Proposed changes 
-- Future website: http://
-
+![alt](/assets/image/pc-new-2.png)
+ 
 ---?image=/assets/image/black.jpg&opacity=90
 
-### The D App Framework
+### The UniBit Framework
 
 Community Discussion Takes Place Here
 for all things App #8 related.
@@ -217,9 +187,9 @@ for all things App #8 related.
 ---?image=/assets/image/black.jpg&opacity=75
 
 
-### D App Framework
+### UniBit Framework
 
-Current User Interface
+Current UI
 <br>
 ![alt](/assets/image/fw.png)
 <br>
@@ -227,25 +197,22 @@ Website: http://
 
 ---?image=/assets/image/black.jpg&opacity=75
 
-### D App Framework Modified
+### UniBit Framework Modified
 
 ![alt]()
-
-- Proposed changes 
+ 
 - Future website: https://unibit.app
 
 ---?image=/assets/image/black.jpg&opacity=75
 
 ### The Trucking App
 
-Community Discussion Takes Place Here
-for all things App #9 related.
 
 ---?image=/assets/image/black.jpg&opacity=75
 
 ### Trucking App
 
-![alt](/assets/image/demo/)
+![alt](/assets/image/trucking-app-gps.png)
 
 - Current main screen 
 - Current website: http://
@@ -254,7 +221,7 @@ for all things App #9 related.
 
 ### Trucking App Modified
 
-![alt]()
+![alt](/assets/image/truck-app-main.png)
 
 - Proposed changes 
 - Future website: http://
