@@ -238,7 +238,8 @@ Website: http://
 
 ### How to get Involved!
 
-<br>
+![alt](/assets/image/unnamed.png)
+
 <div class="left">
     <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
     <a href="https://gitpitch.com/pro-features" class="pro-link">
