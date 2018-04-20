@@ -41,7 +41,7 @@ Website: https://encryption.app
 
 ![YouTube Video](https://www.youtube.com/embed/-VXYZmrquYA)
 
-![alt](/assets/image/demo/winner-sxsw.png)
+![alt](/assets/image/winner-sxsw.png)
 
 ---?image=/assets/image/black.jpg&opacity=75
 
