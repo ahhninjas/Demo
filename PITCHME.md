@@ -113,7 +113,7 @@ Website: http://unibit.rundis.com
 
 ### UMW App Modified
 
-![alt](assets/image/encryption-app-mod.jpg)
+![alt](https://raw.githubusercontent.com/UniBitProject/team-demo/master/assets/image/nebula.png)
 
 ---?image=/assets/image/black.jpg&opacity=90
 
