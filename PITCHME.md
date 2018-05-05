@@ -67,7 +67,7 @@ Results website: http://198.23.196.54:2750/VoteChain/assetref/7-264-40763#holder
 ### Universal Basic Income Tokens
 
 ![YouTube Video](https://youtu.be/QCZNvs_f6VI)
-t
+
 ---?image=/assets/image/black.jpg&opacity=75
 
 ### UBIT 
