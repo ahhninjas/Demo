@@ -1,9 +1,13 @@
 ---?image=/assets/image/black.jpg&opacity=90
 
-### Welco!
+### The Universal Bit Project
 [UniBit Labs](http://universalbitproject.com)
 
-##### Presentation covering UI/UX changes to UniBit applications. 
+Welcome to the Universal Bit Project overview. This presentation will cover all of the Universal Bit Project's current application development. It is here that you will find a decent knowledge base to work upon for the future of our project. 
+Please add us as friends on: GitHub, FaceBook, Twitter, Skype
+<li>
+
+##### Presentation Covering UI/UX Changes To UniBit Applications
 
 ---?image=/assets/image/black.jpg&opacity=75
 
@@ -235,22 +239,21 @@ Website: http://
 
 ---?image=/assets/image/black.jpg&opacity=90
 
-### How to get Involved!
+### How To Help
 
 ![alt](/assets/image/unnamed.png)
 
 <div class="left">
     <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
     <a href="https://gitpitch.com/pro-features" class="pro-link">
-    More details hidden here.</a>
+    More details here.</a>
 </div>
 <div class="right">
     <ul>
-        <li>Bug Bounties</li>
-        <li>Graphics Art Bounties</li>
-        <li>Spread the word!</li>
-        <li>Use our apps!</li>
-        <li>Leave feedback to make things better!</li>
+        <li>Bounties: Debugging, Graphic Design, Ect.</li>
+        <li>Spread The Word About UniBit And It's Apps</li>
+        <li>Download And Use UniBit Apps</li>
+        <li>Donate<li>
     </ul>
 </div>
 
