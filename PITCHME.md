@@ -33,7 +33,7 @@ Proposed Changes
 <br>
 Website: https://encryption.app 
 </center>
-
+new edi
 ---?image=/assets/image/black.jpg&opacity=90
 
 ### Vote App
