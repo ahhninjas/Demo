@@ -1,7 +1,6 @@
 ---?image=/assets/image/black.jpg&opacity=90
 
-### Welcome to the 
-
+### Welco!
 [UniBit Labs](http://universalbitproject.com)
 
 ##### Presentation covering UI/UX changes to UniBit applications. 
