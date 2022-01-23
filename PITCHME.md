@@ -1,13 +1,13 @@
 ---?image=/assets/image/black.jpg&opacity=90
 
-### Welco!
+### Welcome!
 [UniBit Labs](http://universalbitproject.com)
 
 ##### Presentation covering UI/UX changes to UniBit applications. 
 
 ---?image=/assets/image/black.jpg&opacity=75
 
-### Encryption App Video Demo
+### Encryption App Video Demonstration
 
 ![YouTube Video](https://www.youtube.com/embed/Sd2oKioNqQU)
 
